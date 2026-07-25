@@ -1,0 +1,39 @@
+.DS_Store
+**/.idea/
+.vscode/
+dist/
+
+build/
+sync/
+*.userdb/
+installation.yaml
+user.yaml
+*.custom.yaml
+!others/**/*.custom.yaml
+
+custom_phrase_double.txt
+others/script/scel2txt/out/*
+others/script/scel2txt/scel/*
+cn_dicts/temp.txt
+
+*private*
+
+rime_console
+rime_deployer
+rime_patch
+
+# == Rime 部署生成的编译缓存 ==
+build/
+*.bin
+
+# == 本地用户运行状态与词频记录 (避免多设备冲突) ==
+user.yaml
+user.yaml.*
+*.userdb/
+
+# == 自带的同步文件夹 ==
+sync/
+
+# == 系统产生的冗余文件 ==
+.DS_Store
+Thumbs.db
