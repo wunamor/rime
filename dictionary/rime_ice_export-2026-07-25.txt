@@ -1,0 +1,116 @@
+# Rime user dictionary export
+#@/db_name	rime_ice
+#@/db_type	userdb
+#@/rime_version	1.13.1
+#@/tick	210
+#@/user_id	18d226a2-3005-45e4-94cb-81c4e0a458f1
+保存	bao cun	1
+备份	bei fen	5
+比较	bi jiao	1
+变得	bian de	1
+变化	bian hua	1
+并且	bing qie	1
+不能	bu neng	1
+部署	bu shu	1
+不想	bu xiang	1
+不用	bu yong	1
+才能	cai neng	1
+仓库	cang ku	1
+操作	cao zuo	1
+查看	cha kan	1
+重置	chong zhi	1
+出现	chu xian	1
+词典	ci dian	2
+错别字	cuo bie zi	1
+达到	da dao	1
+打开	da kai	1
+淡淡的	dan dan de	1
+但是	dan shi	4
+的	de	8
+等	deng	1
+地址	di zhi	1
+定时	ding shi	1
+都需要	dou xu yao	1
+而且	er qie	1
+发现	fa xian	1
+放	fang	1
+方便	fang bian	3
+感觉	gan jue	2
+更好	geng hao	1
+关闭	guan bi	1
+过	guo	1
+过了	guo le	2
+还有没有	hai you mei you	1
+好了	hao le	1
+黑色	hei se	2
+很奇怪	hen qi guai	1
+后	hou	3
+或者	huo zhe	1
+记事本	ji shi ben	1
+结果	jie guo	1
+就有	jiu you	1
+看看	kan kan	1
+可以	ke yi	4
+了	le	3
+浏览器	liu lan qi	1
+没问题	mei wen ti	1
+每一次	mei yi ci	1
+没有	mei you	4
+默认	mo ren	1
+模式	mo shi	1
+哪里	na li	2
+那里	na li	1
+那么	na me	5
+呢	ne	8
+能不能	neng bu neng	1
+你	ni	1
+你看看	ni kan kan	1
+盼望	pan wang	1
+配置	pei zhi	8
+前提	qian ti	1
+切换	qie huan	1
+让	rang	1
+如何	ru he	5
+软件	ruan jian	1
+上面	shang mian	2
+是	shi	4
+是否	shi fou	1
+时候	shi hou	3
+使用	shi yong	5
+输入法	shu ru fa	1
+他	ta	1
+它	ta	1
+提示	ti shi	1
+同步	tong bu	1
+推荐	tui jian	1
+完	wan	2
+完旁	wan pang	1
+网盘	wang pan	2
+为什么	wei shen me	1
+文件	wen jian	3
+问题	wen ti	3
+我	wo	10
+希望	xi wang	1
+想要	xiang yao	1
+需要	xu yao	2
+颜色	yan se	1
+要求	yao qiu	1
+一个	yi ge	1
+已经	yi jing	4
+依然	yi ran	1
+因为	yin wei	2
+应该	ying gai	3
+英文	ying wen	1
+用	yong	3
+有	you	1
+有什么	you shen me	1
+有问题	you wen ti	1
+在	zai	2
+怎么	zen me	2
+这个	zhe ge	8
+正常	zheng chang	2
+执行	zhi xing	2
+中	zhong	2
+主题	zhu ti	2
+自动	zi dong	1
+作用	zuo yong	1

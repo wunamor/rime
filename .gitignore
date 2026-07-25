@@ -21,19 +21,3 @@ cn_dicts/temp.txt
 rime_console
 rime_deployer
 rime_patch
-
-# == Rime 部署生成的编译缓存 ==
-build/
-*.bin
-
-# == 本地用户运行状态与词频记录 (避免多设备冲突) ==
-user.yaml
-user.yaml.*
-*.userdb/
-
-# == 自带的同步文件夹 ==
-sync/
-
-# == 系统产生的冗余文件 ==
-.DS_Store
-Thumbs.db
