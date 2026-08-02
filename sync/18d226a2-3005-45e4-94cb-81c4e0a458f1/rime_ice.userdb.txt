@@ -2,921 +2,981 @@
 #@/db_name	rime_ice
 #@/db_type	userdb
 #@/rime_version	1.13.1
-#@/tick	3113
+#@/tick	3469
 #@/user_id	18d226a2-3005-45e4-94cb-81c4e0a458f1
-an quan 	安全	c=2 d=1.14426 t=3113
-an xia 	按下	c=1 d=0.105927 t=3113
-an zhao 	按照	c=1 d=0.257947 t=3113
-an zhuang 	安装	c=2 d=0.70188 t=3113
-ba 	把	c=9 d=1.40334 t=3113
-ba ta 	把他	c=1 d=0.767206 t=3113
-ban 	版	c=0 d=0.0261846 t=3113
-ban ben 	版本	c=4 d=0.796212 t=3113
-ban bu ban 	办不办	c=1 d=0.232236 t=3113
-bang wo 	帮我	c=6 d=2.18843 t=3113
-bao cun 	保存	c=4 d=0.880688 t=3113
-bao cuo 	报错	c=1 d=0.852144 t=3113
-bao guo 	包裹	c=12 d=2.34824 t=3113
-bao han 	包含	c=3 d=1.88359 t=3113
-bao hao 	保号	c=1 d=0.128093 t=3113
-bei 	被	c=4 d=1.39054 t=3113
-bei fen 	备份	c=8 d=5.04342 t=3113
-bei jing 	背景	c=2 d=0.535384 t=3113
-beng dai 	绷带	c=6 d=1.2616 t=3113
-beng kui 	崩溃	c=3 d=2.63375 t=3113
-bi bei 	必备	c=1 d=0.66365 t=3113
-bi ji ben 	笔记本	c=2 d=1.05473 t=3113
-bi jiao 	比较	c=5 d=1.26229 t=3113
-bi jing 	毕竟	c=1 d=0.0944202 t=3113
-bi mian 	避免	c=1 d=0.13068 t=3113
-bi ru 	比如	c=11 d=1.98708 t=3113
-bi xu 	必须	c=1 d=0.160414 t=3113
-bi zi 	鼻子	c=1 d=0.18452 t=3113
-bian cheng 	编程	c=1 d=0.2334 t=3113
-bian de 	变得	c=1 d=0.88692 t=3113
-bian hua 	变化	c=3 d=0.418952 t=3113
-bian jie 	便捷	c=0 d=0.0261846 t=3113
-bian jie 	边界	c=1 d=0.818731 t=3113
-bian jie ban 	便捷版	c=2 d=0.653786 t=3113
-bian kuang 	边框	c=1 d=0.900325 t=3113
-bian li 	遍历	c=4 d=0.988542 t=3113
-bian wei 	变为	c=4 d=0.418197 t=3113
-biao 	表	c=4 d=1.61045 t=3113
-biao da shi 	表达式	c=1 d=0.216536 t=3113
-biao qian 	标签	c=1 d=1 t=2880
-biao shi 	表示	c=1 d=0.216536 t=3113
-biao ti 	标题	c=1 d=1.06737 t=3071
-biao ti chu 	标题处	c=1 d=1 t=2993
-bie 	别	c=1 d=0.336216 t=3113
-bie ren 	别人	c=1 d=0.97531 t=3113
-bing qie 	并且	c=2 d=0.847927 t=3113
-bo ke 	博客	c=1 d=0.798516 t=3113
-bu 	不	c=4 d=0.393476 t=3113
-bu 	步	c=3 d=0.690368 t=3113
-bu an 	不安	c=1 d=0.22091 t=3113
-bu an 	不按	c=1 d=0.224249 t=3113
-bu bi 	不必	c=1 d=0.329559 t=3113
-bu cun huo 	不存活	c=1 d=1 t=2850
-bu fen 	部分	c=1 d=1 t=2638
-bu geng xin 	不更新	c=1 d=0.323033 t=3113
-bu hui 	不会	c=2 d=0.936443 t=3113
-bu ke 	不可	c=2 d=0.928414 t=3113
-bu ke chong fu du 	不可重复读	c=4 d=0.899155 t=3113
-bu liao 	不了	c=2 d=0.860768 t=3113
-bu neng 	不能	c=11 d=1.28568 t=3113
-bu pi pei 	不匹配	c=1 d=0.319819 t=3113
-bu qi zuo yong 	不起作用	c=1 d=0.13466 t=3113
-bu ran 	不然	c=1 d=0.701173 t=3113
-bu shao 	不少	c=2 d=0.392185 t=3113
-bu sheng xiao 	不生效	c=2 d=0.202535 t=3113
-bu shi 	不是	c=6 d=1.20674 t=3113
-bu shu 	部署	c=2 d=0.619413 t=3113
-bu tai hao 	不太好	c=2 d=1.78663 t=3049
-bu tong 	不同	c=5 d=1.30811 t=3113
-bu tong de 	不同的	c=1 d=0.501576 t=3113
-bu xian shi 	不显示	c=1 d=0.0862936 t=3113
-bu xiang 	不想	c=1 d=0.585669 t=3113
-bu xing 	不行	c=1 d=0.0575558 t=3113
-bu xu yao 	不需要	c=5 d=1.65513 t=3113
-bu yao 	不要	c=8 d=0.96136 t=3113
-bu yi ding 	不一定	c=1 d=0.0977834 t=3113
-bu ying xiang 	不影响	c=1 d=0.301194 t=3113
-bu yong 	不用	c=2 d=0.649126 t=3113
-bu zheng chang 	不正常	c=1 d=0.810584 t=3113
-bu zhou 	步骤	c=2 d=0.660297 t=3113
-bu zou 	不走	c=1 d=1 t=3039
-cai 	才	c=1 d=0.10383 t=3113
-cai hui 	才会	c=1 d=1 t=2774
-cai neng 	才能	c=3 d=0.772923 t=3113
-cang ku 	仓库	c=1 d=0.690734 t=3113
-cao zuo 	操作	c=2 d=0.695539 t=3113
-ce shi 	测试	c=25 d=9.94917 t=3113
-ce shi kai fa gong cheng shi 	测试开发工程师	c=0 d=0.033454 t=3113
-cha bu duo 	差不多	c=2 d=0.986038 t=3113
-cha jian 	插件	c=1 d=0.126186 t=3113
-cha kan 	查看	c=4 d=0.737124 t=3113
-cha ru 	插入	c=5 d=3.62075 t=3113
-cha xun 	查询	c=7 d=1.57228 t=3113
-cha xun jie guo 	查询结果	c=1 d=0.191092 t=3113
-chang 	厂	c=0 d=0.0377192 t=3113
-chang du 	长度	c=1 d=0.774916 t=3113
-chang jian 	常见	c=1 d=1 t=2720
-chang jing 	场景	c=1 d=0.0731678 t=3113
-chang jiu 	长久	c=1 d=0.256661 t=3113
-cheng gong 	成功	c=5 d=0.852502 t=3113
-cheng xu 	程序	c=1 d=0.965605 t=3113
-chi jiu xing 	持久性	c=2 d=0.236412 t=3113
-chong fu 	重复	c=1 d=0.83527 t=3113
-chong fu du 	重复度	c=1 d=0.909373 t=3113
-chong xin 	重新	c=2 d=0.585669 t=3113
-chong zhi 	重置	c=1 d=0.406569 t=3113
-chou li 	抽离	c=1 d=0.97531 t=3113
-chu 	出	c=5 d=1.53366 t=3113
-chu 	处	c=0 d=0.1 t=2992
-chu fa 	触发	c=4 d=1.95888 t=3113
-chu jie 	初阶	c=2 d=1.09764 t=3113
-chu jue 	触觉	c=2 d=0.664183 t=3113
-chu lai 	出来	c=1 d=0.980199 t=3113
-chu le 	除了	c=2 d=1.56933 t=3113
-chu li 	处理	c=4 d=0.874383 t=3113
-chu shi 	初识	c=1 d=1 t=2588
-chu xian 	出现	c=9 d=0.952723 t=3113
-chuan ru 	传入	c=6 d=5.04514 t=3113
-chuan xing hua 	串行化	c=3 d=1.63286 t=3113
-chuang jian 	创建	c=2 d=0.317531 t=3113
-chuang kou 	窗口	c=10 d=4.7016 t=3113
-chun cui 	纯粹	c=2 d=0.85986 t=3113
-ci dian 	词典	c=2 d=0.904837 t=3113
-ci shi 	此时	c=5 d=2.95476 t=3113
-cong 	从	c=2 d=0.590838 t=3113
-cong er 	从而	c=1 d=0.582748 t=3113
-cong na li 	从哪里	c=1 d=1 t=2701
-cong qian 	从前	c=0 d=0.0307279 t=3113
-cong qian wan hou 	从前完后	c=1 d=0.308819 t=3113
-cong qian wang hou 	从前往后	c=3 d=1.35296 t=3113
-cun 	村	c=0 d=0.011475 t=3113
-cun huo 	存活	c=2 d=2.01001 t=2857
-cun zai 	存在	c=2 d=0.947139 t=3113
-cuo 	错	c=1 d=0.744531 t=3113
-cuo bie zi 	错别字	c=1 d=0.436049 t=3113
-cuo wu 	错误	c=2 d=1.40252 t=3113
-da 	打	c=4 d=1.36824 t=3113
-da biao 	大表	c=1 d=0.07502 t=3113
-da bing 	大兵	c=1 d=0.985112 t=3113
-da bu fen 	大部分	c=1 d=0.202909 t=3113
-da chu 	打出	c=2 d=0.672734 t=3113
-da dao 	达到	c=1 d=0.343008 t=3113
-da kai 	打开	c=5 d=1.31816 t=3113
-da liang 	大量	c=1 d=0.0765356 t=3113
-da nao 	大脑	c=1 d=0.341298 t=3113
-da yin 	打印	c=3 d=2.77652 t=2931
-da yu 	大于	c=3 d=1.99939 t=3113
-da yue 	大约	c=2 d=0.215082 t=3113
-da zhi 	打制	c=1 d=0.891366 t=3113
-da zi 	打字	c=1 d=0.895834 t=3113
-dai ma 	代码	c=6 d=1.07688 t=3113
-dai ma kuai 	代码块	c=3 d=0.311412 t=3113
-dai zai 	待在	c=1 d=1 t=3037
-dan 	但	c=2 d=0.658256 t=3113
-dan biao 	单表	c=1 d=0.137381 t=3113
-dan dan de 	淡淡的	c=3 d=0.496585 t=3113
-dan diao 	单调	c=1 d=0.362402 t=3113
-dan ge 	单个	c=1 d=0.138069 t=3113
-dan shi 	但是	c=16 d=2.10027 t=3113
-dan wei 	单位	c=1 d=0.650509 t=3113
-dan yi 	单一	c=1 d=0.196912 t=3113
-dang qian 	当前	c=6 d=1.88406 t=3113
-dang zuo 	当作	c=0 d=0.0276651 t=3113
-dang zuo wei 	当作为	c=1 d=0.278037 t=3113
-dao 	到	c=12 d=2.3079 t=3113
-dao zhi 	导致	c=6 d=1.1425 t=3113
-de 	的	c=217 d=20.186 t=3113
-de dao 	得到	c=1 d=0.585669 t=3113
-deng 	等	c=8 d=1.8923 t=3113
-di 	弟	c=1 d=0.215456 t=3113
-di 	第	c=2 d=0.455845 t=3113
-di dian 	地点	c=2 d=0.54139 t=3113
-di fang 	地方	c=4 d=0.982557 t=3113
-di zhi 	地址	c=2 d=0.694197 t=3113
-dian 	点	c=2 d=0.942326 t=3113
-dian bao 	电报	c=2 d=0.185214 t=3113
-dian ji 	点击	c=8 d=3.90369 t=3061
-dian nao 	电脑	c=2 d=0.976497 t=3113
-dian yuan 	电源	c=1 d=0.932394 t=3113
-diao 	掉	c=1 d=0.88692 t=3113
-diao du 	调度	c=1 d=0.66034 t=3113
-diao yong 	调用	c=3 d=0.66477 t=3113
-ding ge 	顶格	c=1 d=0.60653 t=3113
-ding shi 	定时	c=2 d=1.50543 t=3113
-ding wei 	定位	c=3 d=1.81416 t=3003
-ding yi 	定义	c=2 d=0.637628 t=3113
-dong xi 	东西	c=2 d=0.359433 t=3113
-dong zuo 	动作	c=1 d=0.960789 t=3113
-dou 	都	c=4 d=0.963488 t=3113
-dou bu neng 	都不能	c=1 d=0.0837432 t=3113
-dou ke yi 	都可以	c=1 d=0.0780816 t=3113
-dou shi 	都是	c=5 d=1.4335 t=3113
-dou xu yao 	都需要	c=1 d=0.591555 t=3113
-du 	读	c=2 d=1.07963 t=3113
-du li 	独立	c=1 d=0.722527 t=3113
-du qu 	读取	c=6 d=2.58183 t=3113
-du qu dao 	读取到	c=2 d=0.744616 t=3113
-du wei ti jiao 	读未提交	c=2 d=0.900325 t=3113
-duan dian 	断电	c=1 d=1 t=2679
-dui 	对	c=4 d=0.667558 t=3113
-dui xiang 	对象	c=1 d=0.869358 t=3113
-duo chu 	多出	c=1 d=0.0833256 t=3113
-duo duan 	多端	c=1 d=0.136014 t=3113
-duo duan tong bu 	多端同步	c=1 d=0.138761 t=3113
-duo ge 	多个	c=1 d=0.597501 t=3113
-duo hang 	多行	c=2 d=0.281731 t=3113
-duo jiu 	多久	c=1 d=0.0555762 t=3113
-duo xian cheng 	多线程	c=1 d=0.548812 t=3113
-duo yu 	多余	c=1 d=0.131335 t=3113
-er 	而	c=4 d=0.958123 t=3113
-er bu shi 	而不是	c=9 d=2.44752 t=3113
-er mei you 	而没有	c=1 d=0.324652 t=3113
-er qie 	而且	c=5 d=0.951961 t=3113
-er shi 	而是	c=4 d=0.209494 t=3113
-fa 	法	c=1 d=0.123687 t=3113
-fa san 	发散	c=1 d=0.70822 t=3113
-fa sheng 	发生	c=1 d=0.400517 t=3113
-fa xian 	发现	c=11 d=2.00892 t=3113
-fan hui 	返回	c=4 d=3.44963 t=3034
-fan wei 	范围	c=1 d=0.532592 t=3113
-fang 	放	c=1 d=0.895834 t=3113
-fang an 	方案	c=1 d=0.310367 t=3113
-fang bian 	方便	c=6 d=1.965 t=3113
-fang fa 	方法	c=4 d=1.7475 t=2965
-fang wen 	访问	c=6 d=1.32627 t=3113
-fei 	非	c=3 d=0.55575 t=3113
-fei zi yuan 	非自愿	c=1 d=0.216536 t=3113
-fen 	分	c=1 d=0.196912 t=3113
-fen bie 	分别	c=1 d=0.20089 t=3113
-fen ge 	分割	c=1 d=0.472367 t=3113
-fen wei 	分为	c=1 d=0.331211 t=3113
-fen xi 	分析	c=1 d=0.57695 t=3113
-fu gai 	覆盖	c=1 d=0.882497 t=3113
-fu he suo yin 	复合索引	c=3 d=0.500056 t=3113
-fu mo 	抚摸	c=1 d=0.254107 t=3113
-fu wu yu 	服务于	c=1 d=1 t=2750
-fu za 	复杂	c=3 d=0.76559 t=3113
-fu ze 	负责	c=1 d=1 t=2755
-gai 	该	c=1 d=0.396532 t=3113
-gai wei 	改为	c=1 d=0.126818 t=3113
-gan jue 	感觉	c=3 d=0.854224 t=3113
-gan rao 	干扰	c=2 d=1.0449 t=3113
-gang hao 	刚好	c=2 d=1.96561 t=3088
-gang wei 	岗位	c=1 d=0.271173 t=3113
-gao pin 	高频	c=1 d=0.637628 t=3113
-gao su 	告诉	c=2 d=0.895834 t=3113
-ge 	个	c=1 d=0.612626 t=3113
-ge ge 	各个	c=2 d=0.830934 t=3113
-ge li 	隔离	c=1 d=0.882497 t=3113
-ge li xing 	隔离型	c=1 d=0.166127 t=3113
-ge li xing 	隔离性	c=3 d=0.451802 t=3113
-ge ren 	个人	c=3 d=1.59869 t=3113
-ge zi 	各自	c=1 d=0.715338 t=3113
-gei 	给	c=5 d=1.30728 t=3113
-gei wo 	给我	c=12 d=1.50017 t=3113
-gen ben 	根本	c=1 d=0.090718 t=3113
-gen ju 	根据	c=4 d=1.34848 t=3113
-geng hao 	更好	c=1 d=0.891367 t=3113
-geng jia 	更加	c=1 d=1 t=2961
-geng xin 	更新	c=6 d=1.63601 t=3113
-gong gong 	公共	c=1 d=0.99005 t=3113
-gong ji 	攻击	c=1 d=0.752014 t=3113
-gong ju 	工具	c=2 d=0.976966 t=3113
-gong neng 	功能	c=6 d=0.839457 t=3113
-gong tong dian 	共同点	c=2 d=0.874305 t=3113
-gong yong 	共用	c=1 d=0.774916 t=3113
-gong zuo 	工作	c=2 d=1.42596 t=3113
-gou jian 	构建	c=4 d=1.18338 t=3113
-gou tong 	沟通	c=1 d=0.628135 t=3113
-guan bi 	关闭	c=5 d=1.05192 t=3113
-guan cha 	观察	c=1 d=0.574072 t=3113
-guan che 	贯彻	c=1 d=0.449329 t=3113
-guan fang qun 	官方群	c=1 d=0.0497871 t=3113
-guan wang 	官网	c=0 d=0.00513033 t=3113
-guan wang qun 	官网群	c=1 d=0.0515605 t=3113
-guan xi 	关系	c=3 d=0.620962 t=3113
-gui ze 	规则	c=1 d=0.232237 t=3113
-guo 	过	c=1 d=0.625003 t=3113
-guo chang 	过长	c=1 d=0.0880368 t=3113
-guo cheng 	过程	c=2 d=0.63206 t=3113
-guo le 	过了	c=4 d=2.01696 t=3113
-hai 	还	c=3 d=0.467452 t=3113
-hai shi 	还是	c=5 d=0.952562 t=3113
-hai yao 	还要	c=1 d=0.798516 t=3113
-hai you mei you 	还有没有	c=1 d=0.860708 t=3113
-hang 	行	c=2 d=0.224703 t=3113
-hang nei 	行内	c=1 d=0.123871 t=3113
-hang nei dai ma kuai 	行内代码块	c=2 d=0.312201 t=3113
-hao 	号	c=2 d=0.244302 t=3113
-hao le 	好了	c=2 d=0.843665 t=3113
-he 	合	c=1 d=0.491644 t=3113
-he 	和	c=4 d=0.794785 t=3113
-he fa 	合法	c=1 d=0.955997 t=3113
-he shi 	合适	c=1 d=1 t=2668
-hei se 	黑色	c=4 d=0.849228 t=3113
-hen ming xian 	很明显	c=1 d=0.71177 t=3113
-hen qi guai 	很奇怪	c=1 d=0.331211 t=3113
-hen xiang 	很响	c=1 d=1 t=2672
-hou 	后	c=16 d=1.70733 t=3113
-hou mian 	后面	c=1 d=1 t=2947
-hou tai 	后台	c=5 d=4.18544 t=2792
-hou tai xian cheng 	后台线程	c=2 d=1.53794 t=2909
-hou zhe 	后者	c=1 d=0.349938 t=3113
-hou zhui 	后缀	c=1 d=0.637628 t=3113
-hu bu gan rao 	互不干扰	c=1 d=0.802519 t=3113
-hu ran 	忽然	c=1 d=0.263158 t=3113
-hua dong 	滑动	c=5 d=1.99822 t=3113
-hua dong chuang kou 	滑动窗口	c=2 d=0.903082 t=3113
-hua tu 	画图	c=1 d=0.355226 t=3113
-huan du 	幻读	c=10 d=5.41615 t=3113
-huan hang 	换行	c=1 d=0.0765355 t=3113
-huan jing 	环境	c=1 d=0.479505 t=3113
-hui 	会	c=15 d=2.23063 t=3113
-hui bao 	汇报	c=1 d=0.0590129 t=3113
-hui chu xian 	会出现	c=1 d=0.280832 t=3113
-hui fu 	恢复	c=1 d=0.509156 t=3113
-hui gun 	回滚	c=2 d=0.506617 t=3113
-hui kuan 	汇款	c=1 d=0.198891 t=3113
-hui shou 	回收	c=1 d=1 t=2754
-hui tui 	回退	c=1 d=1 t=3103
-hui you 	会有	c=2 d=0.389 t=3113
-huo qu 	获取	c=2 d=1.00366 t=3113
-huo rong 	火绒	c=1 d=0.537944 t=3113
-huo zhe 	或者	c=2 d=0.37344 t=3113
-ji 	挤	c=2 d=0.343617 t=3113
-ji 	级	c=2 d=1.86936 t=3006
-ji ben 	基本	c=1 d=0.647265 t=3113
-ji ben dan wei 	基本单位	c=1 d=0.67032 t=3113
-ji bie 	级别	c=3 d=1.77828 t=3113
-ji ge 	几个	c=1 d=0.486752 t=3113
-ji ke 	即可	c=7 d=3.36316 t=3113
-ji lu 	记录	c=2 d=0.904837 t=3113
-ji qi 	极其	c=3 d=0.183567 t=3113
-ji shi ben 	记事本	c=1 d=0.460704 t=3113
-ji suan 	计算	c=2 d=1.5423 t=3113
-ji xu 	继续	c=1 d=1 t=2967
-ji zhi 	机制	c=1 d=1 t=2756
-jia 	加	c=1 d=0.0502874 t=3113
-jia she 	假设	c=1 d=0.2334 t=3113
-jia shou 	假手	c=3 d=0.819057 t=3113
-jia zhi 	假肢	c=2 d=0.501979 t=3113
-jia zhuang 	假装	c=1 d=0.231078 t=3113
-jian dan 	简单	c=3 d=0.904879 t=3113
-jian ge 	间隔	c=1 d=0.0792617 t=3113
-jian shao 	减少	c=2 d=0.221255 t=3113
-jian yi 	建议	c=1 d=0.158025 t=3113
-jiang di 	降低	c=1 d=0.298197 t=3113
-jiang lai 	将来	c=1 d=0.0972957 t=3113
-jiao duo 	较多	c=1 d=0.612626 t=3113
-jiao xiao 	较小	c=1 d=0.540641 t=3113
-jiao zuo 	叫作	c=1 d=0.121238 t=3113
-jie gou 	结构	c=3 d=0.858267 t=3113
-jie guo 	结果	c=10 d=2.13841 t=3113
-jie jue 	解决	c=5 d=0.842255 t=3113
-jie shi 	解释	c=1 d=0.213312 t=3113
-jie shu 	结束	c=11 d=2.33445 t=3113
-jie ti 	解题	c=2 d=1.15649 t=3113
-jin 	进	c=0 d=0.0657047 t=3113
-jin cheng 	进程	c=15 d=9.03487 t=3113
-jin chuang kou 	进窗口	c=2 d=1.36856 t=3113
-jin jin 	仅仅	c=3 d=0.334153 t=3113
-jin qu 	进去	c=1 d=1 t=2624
-jin ru 	进入	c=1 d=0.543351 t=3113
-jin xing 	进行	c=4 d=0.67449 t=3113
-jiu 	就	c=10 d=1.8723 t=3113
-jiu bu 	就不	c=0 d=0.0244143 t=3113
-jiu bu man zu 	就不满足	c=1 d=0.245367 t=3113
-jiu bu xu yao 	就不需要	c=2 d=0.752014 t=3113
-jiu bu yao 	就不要	c=1 d=0.132655 t=3113
-jiu hui 	就会	c=4 d=2.56128 t=3113
-jiu ke 	就可	c=1 d=1 t=3023
-jiu ke yi 	就可以	c=1 d=0.388679 t=3113
-jiu shi 	就是	c=8 d=1.366 t=3113
-jiu xu yao 	就需要	c=1 d=0.107528 t=3113
-jiu yao 	就要	c=5 d=1.11979 t=3113
-jiu you 	就有	c=1 d=0.759572 t=3113
-ju bei 	具备	c=2 d=1.01699 t=3113
-ju jue 	拒绝	c=1 d=0.985112 t=3113
-ju xian yu 	局限于	c=1 d=0.715338 t=3113
-jue de 	觉得	c=2 d=1.87472 t=3113
-kai fa 	开发	c=9 d=4.27833 t=3113
-kai qi 	开启	c=5 d=2.68046 t=3113
-kai shi 	开始	c=4 d=1.25314 t=3113
-kai yuan 	开源	c=1 d=0.249075 t=3113
-kan 	看	c=3 d=0.733837 t=3113
-kan 	砍	c=1 d=0.264477 t=3113
-kan kan 	看看	c=2 d=1.25397 t=3113
-kan qi lai 	看起来	c=1 d=0.412714 t=3113
-kao lv 	考虑	c=1 d=0.802519 t=3113
-ke chong fu du 	可重复读	c=2 d=0.932394 t=3113
-ke jian 	可见	c=1 d=0.339596 t=3113
-ke mu si 	科目四	c=1 d=0.0710054 t=3113
-ke yi 	可以	c=24 d=2.64385 t=3113
-ke zhi xing 	可执行	c=1 d=0.438235 t=3113
-kong 	空	c=1 d=0.878095 t=3113
-kong ge 	空格	c=1 d=0.106458 t=3113
-kong tiao 	空调	c=2 d=1.94649 t=2681
-kou fei 	扣费	c=1 d=0.131994 t=3113
-kuai 	块	c=2 d=0.261496 t=3113
-kuai jie jian 	快捷键	c=1 d=0.285076 t=3113
-kuai su 	快速	c=2 d=0.522046 t=3113
-kuai ying yong 	快应用	c=1 d=0.136696 t=3113
-kuan du 	宽度	c=2 d=0.29406 t=3113
-la ji 	垃圾	c=1 d=1 t=2753
-lai 	来	c=7 d=1.11665 t=3113
-lan jie 	拦截	c=1 d=0.814647 t=3113
-lan qiao bei 	蓝桥杯	c=1 d=0.229925 t=3113
-le 	了	c=51 d=6.52372 t=3113
-lei si 	类似	c=1 d=0.0724398 t=3113
-lei xing 	类型	c=1 d=0.305746 t=3113
-li mian 	里面	c=13 d=3.26775 t=3113
-liang ci 	两次	c=2 d=0.658604 t=3113
-liang ge 	两个	c=3 d=0.76716 t=3113
-lie 	列	c=2 d=0.182394 t=3113
-lie biao 	列表	c=1 d=0.180866 t=3113
-ling 	令	c=1 d=0.644036 t=3113
-ling yi ge 	另一个	c=5 d=1.79711 t=3113
-liu lan 	浏览	c=1 d=0.436049 t=3113
-liu lan qi 	浏览器	c=3 d=1.59257 t=3113
-lu 	路	c=0 d=0.011475 t=3113
-lu yu cheng 	卢昱城	c=5 d=0.568055 t=3113
-luan xu 	乱序	c=1 d=0.847894 t=3113
-luo ji 	逻辑	c=7 d=1.85282 t=3113
-ma 	吗	c=2 d=0.143226 t=3113
-ma fan 	麻烦	c=3 d=0.891367 t=3113
-man zu 	满足	c=8 d=1.27919 t=3113
-mang da 	盲打	c=1 d=0.104874 t=3113
-mei ci 	每次	c=1 d=0.199888 t=3113
-mei ge 	每个	c=2 d=0.866239 t=3113
-mei tian 	每天	c=2 d=1.77185 t=3113
-mei wen ti 	没问题	c=2 d=0.847893 t=3113
-mei yi ci 	每一次	c=1 d=0.588605 t=3113
-mei you 	没有	c=28 d=5.8952 t=3113
-mei you yong 	没有用	c=1 d=0.20089 t=3113
-mi mi ma ma 	密密麻麻	c=1 d=0.167797 t=3113
-mian fei 	免费	c=1 d=0.247833 t=3113
-mian shi 	面试	c=2 d=0.703176 t=3113
-ming 	明	c=1 d=0.371577 t=3113
-ming cheng 	名称	c=1 d=0.0925506 t=3113
-ming xian 	明显	c=1 d=0.308819 t=3113
-ming zhong 	命中	c=1 d=0.390628 t=3113
-ming zi 	名字	c=2 d=1.99005 t=2803
-mo ni 	模拟	c=1 d=0.346456 t=3113
-mo ren 	默认	c=3 d=0.5046 t=3113
-mo shi 	模式	c=2 d=0.931077 t=3113
-mu biao 	目标	c=1 d=0.223131 t=3113
-mu biao zhi 	目标值	c=1 d=0.748264 t=3113
-mu di di 	目的地	c=1 d=0.193013 t=3113
-mu lu 	目录	c=6 d=4.19714 t=3084
-mu nai yi 	木乃伊	c=3 d=1.44327 t=3113
-na 	那	c=8 d=0.87735 t=3113
-na ge 	哪个	c=2 d=0.310686 t=3113
-na ge 	那个	c=2 d=0.597501 t=3113
-na li 	哪里	c=2 d=1.51082 t=3113
-na li 	那里	c=2 d=0.68045 t=3113
-na me 	那么	c=34 d=3.67061 t=3113
-na xie 	哪些	c=3 d=2.19169 t=3113
-na xie 	那些	c=1 d=0.412714 t=3113
-na yi ge 	哪一个	c=1 d=0.398519 t=3113
-nan yi 	难以	c=1 d=1 t=2832
-ne 	呢	c=22 d=4.89654 t=3113
-nei 	内	c=7 d=1.88687 t=3113
-nei rong 	内容	c=7 d=1.86724 t=3113
-neng bu neng 	能不能	c=16 d=2.19392 t=3113
-neng li 	能力	c=5 d=3.28622 t=3113
-ni 	你	c=17 d=2.23184 t=3113
-ni kan kan 	你看看	c=1 d=0.677057 t=3113
-ni zhi xu yao 	你只需要	c=1 d=1 t=2647
-niu nai 	牛奶	c=1 d=1 t=2695
-nong diao 	弄掉	c=1 d=1 t=2644
-nv sheng 	女生	c=1 d=0.239309 t=3113
-nv xing 	女性	c=1 d=0.246597 t=3113
-pai chu 	排除	c=1 d=0.264477 t=3113
-pai xu 	排序	c=2 d=0.770937 t=3113
-pan duan 	判断	c=11 d=5.18099 t=3113
-pan wang 	盼望	c=1 d=0.597501 t=3113
-pang bian 	旁边	c=1 d=1 t=3009
-pei zhi 	配置	c=23 d=4.67348 t=3113
-pi liang 	批量	c=1 d=0.937067 t=3113
-pi pei 	匹配	c=5 d=1.1222 t=3113
-pin xie 	拼写	c=2 d=0.45656 t=3113
-pin ying 	拼英	c=5 d=1.39429 t=3113
-qi dong 	启动	c=2 d=1.03665 t=3113
-qi e 	企鹅	c=1 d=0.122456 t=3113
-qi lai 	起来	c=2 d=0.20061 t=3113
-qi pian 	欺骗	c=1 d=0.349938 t=3113
-qi ta 	其他	c=11 d=1.49611 t=3113
-qi wang 	期望	c=2 d=0.350253 t=3113
-qian 	前	c=3 d=0.541135 t=3113
-qian 	钱	c=3 d=1.21852 t=3113
-qian mian 	前面	c=3 d=0.55199 t=3113
-qian tai 	前台	c=4 d=3.68506 t=2787
-qian tai xian cheng 	前台线程	c=1 d=1.04649 t=2750
-qian tai xian cheng de 	前台线程的	c=1 d=1 t=2751
-qian ti 	前提	c=1 d=0.918512 t=3113
-qian zhe 	前者	c=1 d=0.337902 t=3113
-qiang 	强	c=1 d=0.161217 t=3113
-qiang po 	强迫	c=3 d=0.653397 t=3113
-qie huan 	切换	c=2 d=0.349938 t=3113
-qing kuang 	情况	c=7 d=1.47778 t=3113
-qing li 	清理	c=3 d=1.47256 t=3113
-qing qiu 	请求	c=1 d=0.810584 t=3113
-qu bie 	区别	c=4 d=1.09168 t=3113
-qu jian 	区间	c=2 d=1.32243 t=3113
-qu na li 	去哪里	c=1 d=0.0500366 t=3113
-quan bu 	全部	c=2 d=0.13466 t=3113
-quan shi 	全是	c=1 d=0.585669 t=3113
-quan zhong 	圈中	c=1 d=0.680451 t=3113
-que 	却	c=1 d=0.331211 t=3113
-que ding 	确定	c=1 d=0.382893 t=3113
-qun 	群	c=0 d=0.00513033 t=3113
-ran hou 	然后	c=4 d=0.599718 t=3113
-rang 	让	c=1 d=0.878095 t=3113
-rang wo 	让我	c=1 d=0.289384 t=3113
-ren 	人	c=1 d=0.190139 t=3113
-ren shi 	认识	c=1 d=0.257947 t=3113
-ren ti 	人体	c=3 d=0.88846 t=3113
-ren yuan 	人员	c=1 d=0.287941 t=3113
-ri ben 	日本	c=1 d=0.245367 t=3113
-rong yi 	容易	c=1 d=0.900325 t=3113
-ru 	儒	c=0 d=0.011475 t=3113
-ru guo 	如果	c=35 d=3.93726 t=3113
-ru he 	如何	c=18 d=2.26822 t=3113
-ru tang tou cun 	儒堂头村	c=3 d=0.352967 t=3113
-ruan jian 	软件	c=13 d=2.79589 t=3113
-ruan jian ce shi gong cheng shi 	软件测试工程师	c=1 d=0.332871 t=3113
-ruan jian ce shi kai fa gong cheng shi 	软件测试开发工程师	c=1 d=0.336216 t=3113
-san 	三	c=1 d=0.154124 t=3113
-san ge 	三个	c=1 d=1 t=2919
-sha bu 	纱布	c=1 d=0.66034 t=3113
-shan chu 	删除	c=6 d=1.9353 t=3113
-shang 	上	c=1 d=0.0566989 t=3113
-shang mian 	上面	c=6 d=0.912525 t=3113
-shang xia wen 	上下文	c=1 d=0.737123 t=3113
-shang yi 	上一	c=1 d=1 t=2977
-shang yi ci 	上一次	c=2 d=0.523266 t=3113
-shang yi ji 	上一集	c=3 d=2.8099 t=3011
-she ji 	设计	c=3 d=0.895362 t=3113
-she wei 	设为	c=1 d=1 t=2733
-she zhi 	设置	c=10 d=4.74384 t=3113
-shen me 	什么	c=5 d=0.325259 t=3113
-shen me shi hou 	什么时候	c=1 d=0.241714 t=3113
-shen pi 	审批	c=1 d=0.301194 t=3113
-shen se 	深色	c=1 d=0.694197 t=3113
-sheng cheng 	生成	c=3 d=1.2841 t=3113
-sheng ji 	升级	c=2 d=0.61633 t=3113
-sheng lve 	省略	c=1 d=1 t=2957
-sheng ming 	生命	c=1 d=0.458406 t=3113
-sheng ri kuai le 	生日快乐	c=1 d=0.729789 t=3113
-sheng xiao 	生效	c=1 d=0.26054 t=3113
-sheng yin 	声音	c=1 d=1 t=2699
-shi 	时	c=1 d=1 t=2831
-shi 	是	c=81 d=7.83381 t=3113
-shi bai 	失败	c=3 d=0.95292 t=3113
-shi bu shi 	是不是	c=2 d=0.489192 t=3113
-shi chang 	市场	c=1 d=0.235746 t=3113
-shi fou 	是否	c=11 d=2.30235 t=3113
-shi hou 	时候	c=17 d=2.44125 t=3113
-shi jian 	时间	c=2 d=0.354684 t=3113
-shi jian zhou 	时间轴	c=1 d=0.588605 t=3113
-shi jue 	视觉	c=2 d=0.65925 t=3113
-shi le 	试了	c=1 d=1 t=2998
-shi pin 	视频	c=6 d=1.14501 t=3113
-shi wu 	事务	c=24 d=10.1261 t=3113
-shi xian 	实现	c=3 d=0.307357 t=3113
-shi xiao 	失效	c=7 d=1.35258 t=3113
-shi yan 	实验	c=2 d=0.536944 t=3113
-shi yong 	使用	c=29 d=3.11273 t=3113
-shi yong 	适用	c=3 d=1.13696 t=3113
-shi yong yu 	适用于	c=1 d=1 t=3113
-shi zhong 	始终	c=1 d=0.511709 t=3113
-shou 	手	c=3 d=0.818332 t=3113
-shou hu 	守护	c=1 d=1 t=2730
-shou hu xian cheng 	守护线程	c=1 d=1 t=2736
-shou hui lai 	收回来	c=2 d=0.212418 t=3113
-shou ji 	手机	c=4 d=0.431061 t=3113
-shou ji ban 	手机版	c=1 d=0.14808 t=3113
-shu 	书	c=1 d=0.227638 t=3113
-shu 	树	c=2 d=0.593 t=3113
-shu biao 	鼠标	c=2 d=1.95123 t=2608
-shu chu 	输出	c=1 d=0.516851 t=3113
-shu ju 	数据	c=17 d=6.47003 t=3113
-shu ju ku 	数据库	c=1 d=0.878095 t=3113
-shu ru 	输入	c=3 d=0.253937 t=3113
-shu ru fa 	输入法	c=4 d=1.02114 t=3113
-shu ru kuang 	输入框	c=1 d=0.0916297 t=3113
-shu xing 	属性	c=2 d=1.99005 t=2724
-shu zi 	数字	c=1 d=0.755784 t=3113
-shu zu 	数组	c=2 d=1.61172 t=3113
-shuang ji 	双击	c=1 d=0.275271 t=3113
-shuang zhi zhen 	双指针	c=0 d=0.0375311 t=3113
-shun xu 	顺序	c=5 d=1.24109 t=3113
-shuo 	说	c=2 d=0.942949 t=3113
-shuo ming 	说明	c=1 d=0.431711 t=3113
-si kao 	思考	c=1 d=0.56836 t=3113
-si lu 	思路	c=1 d=0.571209 t=3113
-si wei 	思维	c=2 d=1.39885 t=3113
-si xun huan 	死循环	c=1 d=1 t=2716
-sou suo 	搜索	c=1 d=0.0982735 t=3113
-su zhi 	素质	c=1 d=0.293758 t=3113
-suan bu suan 	算不算	c=1 d=0.744532 t=3113
-suan fa 	算法	c=1 d=0.0695994 t=3113
-sui ran 	虽然	c=2 d=0.452005 t=3113
-suo yi 	所以	c=1 d=0.377193 t=3113
-suo yin 	索引	c=17 d=3.41267 t=3113
-suo yin lie 	索引列	c=1 d=0.299692 t=3113
-suo you 	所有	c=2 d=0.71177 t=3113
-suo you de 	所有的	c=1 d=1 t=2769
-ta 	他	c=1 d=0.540641 t=3113
-ta 	她	c=1 d=0.194952 t=3113
-ta 	它	c=11 d=1.24162 t=3113
-ta men 	它们	c=2 d=0.647265 t=3113
-tai duo 	太多	c=2 d=0.879222 t=3113
-tan chu 	弹出	c=1 d=0.474734 t=3113
-tan suo 	探索	c=1 d=0.690734 t=3113
-tang 	堂	c=0 d=0.011475 t=3113
-tao can 	套餐	c=1 d=0.128735 t=3113
-te xing 	特性	c=1 d=0.32628 t=3113
-ti 	题	c=1 d=0.644036 t=3113
-ti gao 	提高	c=3 d=1.28836 t=3113
-ti jiao 	提交	c=2 d=1.50729 t=3113
-ti mu 	题目	c=3 d=1.79348 t=3113
-ti shi 	提示	c=5 d=2.18978 t=3113
-tian jia 	添加	c=4 d=1.15086 t=3113
-tiao 	条	c=1 d=0.733447 t=3113
-tiao dao 	跳到	c=5 d=0.421079 t=3113
-tiao jian 	条件	c=2 d=1.04105 t=3113
-tiao shi 	调试	c=1 d=1 t=2808
-tiao zheng 	调整	c=1 d=1 t=2806
-tiao zhi 	调制	c=1 d=1 t=2807
-tiao zhuan 	跳转	c=3 d=2.54838 t=3077
-tong bu 	同步	c=6 d=0.727577 t=3113
-tong guo 	通过	c=4 d=0.884406 t=3113
-tong pei fu 	通配符	c=2 d=0.251234 t=3113
-tong shi 	同时	c=1 d=0.25284 t=3113
-tong xiang 	同向	c=1 d=0.379083 t=3113
-tong xiang 	通向	c=0 d=0.0375311 t=3113
-tong xiang shuang zhi zhen 	通向双指针	c=1 d=0.377192 t=3113
-tong yi ge 	同一个	c=1 d=0.447088 t=3113
-tou 	头	c=0 d=0.011475 t=3113
-tu pian 	图片	c=5 d=0.7516 t=3113
-tu ran 	突然	c=1 d=0.0934807 t=3113
-tu zhong 	图中	c=3 d=1.0557 t=3113
-tui hui 	退回	c=1 d=1 t=3052
-tui jian 	推荐	c=6 d=2.16044 t=3113
-wai ji 	外籍	c=1 d=1 t=2671
-wan 	完	c=6 d=1.84193 t=3113
-wan bi 	完毕	c=1 d=0.159614 t=3113
-wan dan 	完蛋	c=1 d=0.1764 t=3113
-wan hou 	完后	c=0 d=0.0307279 t=3113
-wan le 	完了	c=1 d=0.180866 t=3113
-wan pang 	完旁	c=1 d=0.600496 t=3113
-wan zheng 	完整	c=2 d=1.92312 t=2962
-wang 	王	c=1 d=0.373439 t=3113
-wang hou 	往后	c=1 d=0.371577 t=3113
-wang pan 	网盘	c=2 d=1.18045 t=3113
-wang ye 	网页	c=2 d=0.186625 t=3113
-wang zhi 	网址	c=5 d=0.462831 t=3113
-wei 	为	c=7 d=1.93401 t=3113
-wei bao cun 	未保存	c=2 d=0.662718 t=3113
-wei shen me 	为什么	c=4 d=0.961422 t=3113
-wei ti jiao 	未提交	c=0 d=0.0895834 t=3113
-wei xin gong zhong hao 	微信公众号	c=1 d=0.0523397 t=3113
-wei zhi 	位置	c=1 d=1 t=2669
-wen ben 	文本	c=1 d=0.0784731 t=3113
-wen jian 	文件	c=10 d=2.18185 t=3113
-wen jian jia 	文件夹	c=2 d=0.889826 t=3113
-wen ti 	问题	c=11 d=2.38922 t=3113
-weng weng 	嗡嗡	c=1 d=1 t=2698
-wo 	我	c=63 d=10.3507 t=3113
-wo de 	我的	c=1 d=0.131336 t=3113
-wo men 	我们	c=1 d=0.847893 t=3113
-wu 	无	c=6 d=4.11051 t=3113
-wu guang gao 	无广告	c=1 d=0.250324 t=3113
-xi tong 	系统	c=1 d=0.384812 t=3113
-xi wang 	希望	c=1 d=0.543351 t=3113
-xia 	下	c=2 d=0.194132 t=3113
-xia gao 	瞎搞	c=1 d=1 t=2677
-xia yi 	下移	c=1 d=1 t=2881
-xia yi ge 	下一个	c=1 d=1 t=3069
-xian 	先	c=3 d=0.163743 t=3113
-xian cheng 	线程	c=26 d=7.57375 t=3113
-xian shi 	显示	c=17 d=3.35804 t=3113
-xian shi ping 	显示屏	c=1 d=0.499074 t=3113
-xian zai 	现在	c=1 d=0.537944 t=3113
-xiang 	像	c=2 d=0.31867 t=3113
-xiang 	想	c=1 d=1 t=2895
-xiang bi 	相比	c=1 d=0.980199 t=3113
-xiang dao 	想到	c=2 d=0.909618 t=3113
-xiang deng 	相等	c=2 d=0.31369 t=3113
-xiang guan 	相关	c=3 d=0.849912 t=3113
-xiang hu 	相互	c=1 d=0.869358 t=3113
-xiang jiao 	橡胶	c=0 d=0.0292293 t=3113
-xiang jiao shou 	橡胶手	c=1 d=0.293758 t=3113
-xiang si 	相似	c=2 d=1.8883 t=3113
-xiang yao 	想要	c=4 d=2.09093 t=3113
-xiao 	小	c=3 d=0.183253 t=3113
-xiao chang 	小厂	c=1 d=0.367879 t=3113
-xiao fu du 	小幅度	c=1 d=0.321422 t=3113
-xiao huang yun 	小黄云	c=1 d=0.843665 t=3113
-xiao lv 	效率	c=2 d=0.984386 t=3113
-xiao mai 	小麦	c=1 d=0.133989 t=3113
-xiao mi 	小米	c=2 d=0.13466 t=3113
-xiao ming 	小明	c=8 d=2.05676 t=3113
-xiao qu jian 	小区间	c=1 d=0.384812 t=3113
-xiao shi 	消失	c=3 d=0.296504 t=3113
-xiao wang 	小王	c=8 d=3.54418 t=3113
-xiao zhu shou 	小助手	c=2 d=0.109499 t=3113
-xie 	些	c=1 d=0.856415 t=3113
-xie 	写	c=1 d=0.865023 t=3113
-xie zai 	卸载	c=1 d=0.13332 t=3113
-xing 	性	c=1 d=0.694197 t=3113
-xing neng 	性能	c=1 d=0.323033 t=3113
-xing qu 	兴趣	c=2 d=1.34738 t=3113
-xing wei 	行为	c=1 d=1 t=3113
-xing zhi 	性质	c=1 d=0.208045 t=3113
-xiu gai 	修改	c=8 d=2.39036 t=3113
-xu bu xu yao 	需不需要	c=1 d=0.970446 t=3113
-xu yao 	需要	c=21 d=3.19191 t=3113
-xuan ze 	选择	c=4 d=1.60497 t=3113
-xue xi 	学习	c=3 d=1.13821 t=3113
-xun huan 	循环	c=2 d=0.998274 t=3113
-ya li 	压力	c=1 d=0.895834 t=3113
-ya suo bao 	压缩包	c=1 d=0.431711 t=3113
-yan se 	颜色	c=1 d=0.382893 t=3113
-yan zheng 	验证	c=3 d=0.189056 t=3113
-yang shi 	样式	c=5 d=0.317329 t=3113
-yao 	要	c=9 d=1.69535 t=3113
-yao bu yao 	要不要	c=2 d=1.47439 t=3113
-yao me 	要么	c=2 d=0.891967 t=3113
-yao qiu 	要求	c=7 d=1.07978 t=3113
-yao you 	要有	c=2 d=0.926216 t=3113
-ye 	也	c=5 d=1.08759 t=3113
-ye jiu 	也就	c=1 d=1 t=2776
-ye mei you 	也没有	c=2 d=0.541057 t=3113
-ye mian 	页面	c=4 d=1.10167 t=3113
-ye shi 	也是	c=3 d=0.43958 t=3113
-ye wu 	业务	c=4 d=1.9097 t=3113
-ye yao 	也要	c=1 d=1 t=2982
-yi 	一	c=2 d=0.291429 t=3113
-yi ban 	一半	c=1 d=0.486752 t=3113
-yi ban 	一般	c=6 d=1.02264 t=3113
-yi bu fen 	一部分	c=1 d=0.0916297 t=3113
-yi ceng yi ceng 	一层一层	c=1 d=0.191092 t=3113
-yi chang 	异常	c=1 d=1 t=2587
-yi ci 	一次	c=1 d=0.158025 t=3113
-yi da pi 	一大批	c=1 d=0.267136 t=3113
-yi ding 	一定	c=1 d=0.272532 t=3113
-yi dong ka 	移动卡	c=1 d=0.126186 t=3113
-yi dui yi 	一对一	c=1 d=1 t=2710
-yi fen 	一份	c=2 d=0.980697 t=3113
-yi ge 	一个	c=17 d=3.58968 t=3113
-yi hang 	一行	c=4 d=0.495332 t=3113
-yi ji 	以及	c=1 d=0.127454 t=3113
-yi jing 	已经	c=14 d=2.86398 t=3113
-yi ran 	依然	c=9 d=2.39409 t=3113
-yi shang 	以上	c=1 d=0.140858 t=3113
-yi si 	意思	c=2 d=0.381331 t=3113
-yi si shi 	意思是	c=1 d=1 t=2912
-yi tai 	一台	c=1 d=0.491644 t=3113
-yi ti jiao 	已提交	c=1 d=0.197899 t=3113
-yi tiao yi tiao 	一跳一跳	c=1 d=0.704688 t=3113
-yi wei zhe 	意味着	c=1 d=1 t=2777
-yi xi lie 	一系列	c=1 d=0.554327 t=3113
-yi xia 	一下	c=12 d=4.29637 t=3113
-yi xie 	一些	c=1 d=0.562705 t=3113
-yi yang 	一样	c=3 d=0.980199 t=3113
-yi yuan 	医院	c=1 d=0.97531 t=3113
-yi zhao 	依照	c=2 d=0.283654 t=3113
-yi zhi 	一致	c=1 d=0.172907 t=3113
-yi zhi xing 	一致性	c=4 d=0.639534 t=3113
-yin wei 	因为	c=9 d=1.48978 t=3113
-ying 	英	c=0 d=0.011475 t=3113
-ying gai 	应该	c=11 d=1.70508 t=3113
-ying pan 	硬盘	c=1 d=0.261846 t=3113
-ying wen 	英文	c=1 d=0.355226 t=3113
-ying xiang 	影响	c=5 d=1.55458 t=3113
-ying yong 	应用	c=1 d=0.421052 t=3113
-yong 	用	c=9 d=1.42204 t=3113
-yong hu zi liao 	用户资料	c=1 d=0.108609 t=3113
-yong kang shi 	永康市	c=0 d=0.011475 t=3113
-yong lai 	用来	c=1 d=0.299692 t=3113
-yong li 	用例	c=3 d=1.89205 t=3113
-you 	有	c=25 d=3.04789 t=3113
-you dian 	有点	c=1 d=0.715338 t=3113
-you hua 	优化	c=9 d=1.92884 t=3113
-you mei you 	有没有	c=2 d=0.101332 t=3113
-you shen me 	有什么	c=2 d=1.21525 t=3113
-you shi 	优势	c=2 d=1.92741 t=3113
-you wen ti 	有问题	c=1 d=0.68729 t=3113
-you xi you chang 	又细又长	c=1 d=0.169483 t=3113
-you xiu 	优秀	c=2 d=1.01344 t=3113
-you xuan 	优选	c=1 d=0.0692522 t=3113
-yu 	与	c=22 d=4.29284 t=3113
-yu fa tang 	语法糖	c=2 d=0.253499 t=3113
-yu gu 	预估	c=1 d=0.909373 t=3113
-yu ju 	语句	c=2 d=1.36483 t=3113
-yu xuan 	预选	c=1 d=0.366045 t=3113
-yu yan 	语言	c=2 d=0.252613 t=3113
-yuan 	元	c=10 d=2.66628 t=3113
-yuan ben 	原本	c=1 d=0.609571 t=3113
-yuan di 	原地	c=1 d=1 t=3038
-yuan yin 	原因	c=1 d=0.778801 t=3113
-yuan zi xing 	原子性	c=4 d=1.03437 t=3113
-yue du qi 	阅读器	c=1 d=0.390628 t=3113
-yun chang shang 	云厂商	c=1 d=0.891366 t=3113
-yun suan 	运算	c=1 d=0.179066 t=3113
-zai 	再	c=2 d=0.574072 t=3113
-zai 	在	c=28 d=2.9111 t=3113
-zai ci 	再次	c=1 d=0.822835 t=3113
-zai gei wo 	再给我	c=2 d=0.128291 t=3113
-zai qian 	在前	c=1 d=0.226502 t=3113
-zai xian 	在线	c=1 d=0.0713613 t=3113
-zang du 	脏读	c=6 d=2.51089 t=3113
-ze ren 	责任	c=1 d=0.88692 t=3113
-zen me 	怎么	c=7 d=2.20138 t=3113
-zen me ban 	怎么办	c=2 d=0.367261 t=3113
-zen me zuo 	怎么做	c=1 d=0.130028 t=3113
-zeng jia 	增加	c=1 d=0.210136 t=3113
-zhan 	站	c=1 d=0.236928 t=3113
-zhan you 	占有	c=2 d=1.41291 t=3113
-zhang jia 	涨价	c=1 d=0.239309 t=3113
-zhao dao 	找到	c=1 d=0.0528657 t=3113
-zhao yi ge 	找一个	c=2 d=0.790571 t=3113
-zhe 	这	c=2 d=1.58567 t=2905
-zhe dang 	遮挡	c=1 d=1 t=2883
-zhe die 	折叠	c=1 d=0.0987662 t=3113
-zhe gai 	遮盖	c=2 d=0.271415 t=3113
-zhe gai zhu 	遮盖住	c=1 d=0.119433 t=3113
-zhe ge 	这个	c=47 d=6.23828 t=3113
-zhe jiang sheng jin hua shi 	浙江省金华市	c=0 d=0.011475 t=3113
-zhe jiang sheng jin hua shi yong kang shi zhi ying zhen ru tang tou cun zhi ru lu 	浙江省金华市永康市芝英镇儒堂头村芝儒路	c=3 d=0.357197 t=3113
-zhe li 	这里	c=1 d=0.130029 t=3113
-zhe li mian 	这里面	c=1 d=0.0742736 t=3113
-zhe liang ge 	这两个	c=1 d=0.640824 t=3113
-zhe me 	这么	c=1 d=1 t=3015
-zhe me chang 	这么长	c=1 d=0.103312 t=3113
-zhe shi 	这是	c=1 d=0.285076 t=3113
-zhe yang 	这样	c=12 d=2.89651 t=3113
-zhe yi bu 	这一步	c=1 d=0.453845 t=3113
-zhe yi ge 	这一个	c=1 d=0.0992613 t=3113
-zhen 	真	c=2 d=0.53867 t=3113
-zhen 	镇	c=0 d=0.011475 t=3113
-zhen de 	真的	c=1 d=0.249075 t=3113
-zhen dui 	针对	c=1 d=0.467666 t=3113
-zhen dui yu 	针对于	c=3 d=0.39226 t=3113
-zheng chang 	正常	c=4 d=1.21927 t=3113
-zheng chang bu zheng chang 	正常不正常	c=1 d=1 t=3111
-zheng hang 	整行	c=1 d=0.172045 t=3113
-zheng que 	正确	c=4 d=2.10591 t=3113
-zheng shi ban 	正式版	c=1 d=0.240508 t=3113
-zheng shu 	正数	c=2 d=0.958331 t=3113
-zheng wen 	正文	c=1 d=1 t=2990
-zheng zha 	挣扎	c=1 d=0.19593 t=3113
-zhi 	值	c=4 d=0.953236 t=3113
-zhi 	只	c=1 d=0.481909 t=3113
-zhi 	芝	c=0 d=0.011475 t=3113
-zhi bu guo 	只不过	c=1 d=0.311923 t=3113
-zhi chi 	支持	c=4 d=0.947073 t=3113
-zhi dao 	直到	c=1 d=0.843665 t=3113
-zhi fu bao 	支付宝	c=1 d=0.123071 t=3113
-zhi he 	之和	c=1 d=0.154896 t=3113
-zhi hou 	之后	c=3 d=0.913931 t=3113
-zhi jian 	之间	c=10 d=3.30505 t=3113
-zhi jie 	直接	c=8 d=1.47295 t=3113
-zhi ling 	指令	c=1 d=1 t=3022
-zhi neng 	只能	c=1 d=1 t=2579
-zhi qian 	之前	c=10 d=1.81991 t=3113
-zhi ru lu 	芝儒路	c=3 d=0.358302 t=3113
-zhi xing 	执行	c=28 d=5.93606 t=3113
-zhi xu yao 	只需要	c=2 d=0.983017 t=3113
-zhi ying zhen 	芝英镇	c=2 d=0.232387 t=3113
-zhi you 	只有	c=2 d=0.182292 t=3113
-zhi yuan zhe 	志愿者	c=1 d=0.271173 t=3113
-zhong 	中	c=11 d=1.55338 t=3113
-zhong da 	中大	c=0 d=0.0377192 t=3113
-zhong da chang 	中大厂	c=2 d=1.03942 t=3113
-zhong dian 	重点	c=1 d=0.167797 t=3113
-zhong duan 	中断	c=1 d=1 t=2861
-zhong jian 	中间	c=2 d=0.160188 t=3113
-zhong tu 	中途	c=1 d=0.496585 t=3113
-zhong wen 	中文	c=1 d=0.110251 t=3113
-zhong yi 	中译	c=1 d=1 t=2728
-zhou qi 	周期	c=1 d=0.460704 t=3113
-zhu ce biao 	注册表	c=2 d=1.03684 t=3113
-zhu jian 	主键	c=2 d=1.76102 t=3113
-zhu ni 	祝你	c=1 d=0.726149 t=3113
-zhu shi 	注释	c=1 d=1 t=2643
-zhu ti 	主题	c=7 d=2.91068 t=3113
-zhu yao 	主要	c=5 d=1.80603 t=3113
-zhuan 	转	c=1 d=1 t=2684
-zhuan huan 	转换	c=1 d=0.133989 t=3113
-zhuan zhang 	转账	c=1 d=0.181772 t=3113
-zhuang tai 	状态	c=2 d=0.522046 t=3113
-zi 	字	c=2 d=0.340821 t=3113
-zi dong 	自动	c=4 d=0.562705 t=3113
-zi dong hua 	自动化	c=1 d=0.65377 t=3113
-zi fu chuan 	字符串	c=5 d=1.72358 t=3113
-zi fu ji 	字符集	c=1 d=0.182684 t=3113
-zi ji 	自己	c=7 d=2.02857 t=3113
-zi yuan 	资源	c=2 d=1.50885 t=3113
-zi yuan fen pei 	资源分配	c=1 d=0.628135 t=3113
-zong he 	总和	c=3 d=2.29802 t=3113
-zong he 	综合	c=1 d=0.621885 t=3113
-zong zhi 	总之	c=1 d=0.273898 t=3113
-zou bu yuan 	走不远	c=1 d=0.683861 t=3113
-zui 	最	c=1 d=0.860708 t=3113
-zui hou 	最后	c=2 d=0.95906 t=3113
-zui shang fang 	最上方	c=2 d=1.09976 t=3092
-zui shang mian 	最上面	c=2 d=0.125556 t=3113
-zui wai ceng 	最外层	c=1 d=0.144424 t=3113
-zui you bian 	最右边	c=1 d=0.873716 t=3113
-zuo 	做	c=1 d=0.375311 t=3113
-zuo bian 	左边	c=1 d=0.865022 t=3113
-zuo yong 	作用	c=1 d=0.913931 t=3113
-zuo you 	左右	c=2 d=0.98757 t=3113
+an quan 	安全	c=2 d=1.14426 t=3469
+an xia 	按下	c=1 d=0.105927 t=3469
+an zhao 	按照	c=1 d=0.257947 t=3469
+an zhuang 	安装	c=2 d=0.70188 t=3469
+ba 	吧	c=1 d=1 t=3466
+ba 	把	c=13 d=2.0818 t=3469
+ba ta 	把他	c=1 d=0.767206 t=3469
+ban 	版	c=0 d=0.0261846 t=3469
+ban ben 	版本	c=4 d=0.796212 t=3469
+ban bu ban 	办不办	c=1 d=0.232236 t=3469
+bang wo 	帮我	c=6 d=2.18843 t=3469
+bao cun 	保存	c=4 d=0.880688 t=3469
+bao cuo 	报错	c=1 d=0.852144 t=3469
+bao guo 	包裹	c=12 d=2.34824 t=3469
+bao han 	包含	c=3 d=1.88359 t=3469
+bao hao 	保号	c=1 d=0.128093 t=3469
+bao zheng 	保证	c=2 d=1.81465 t=3353
+bei 	被	c=4 d=1.39054 t=3469
+bei fen 	备份	c=8 d=5.04342 t=3469
+bei jing 	背景	c=2 d=0.535384 t=3469
+beng dai 	绷带	c=6 d=1.2616 t=3469
+beng kui 	崩溃	c=3 d=2.63375 t=3469
+bi bei 	必备	c=1 d=0.66365 t=3469
+bi ji ben 	笔记本	c=2 d=1.05473 t=3469
+bi jiao 	比较	c=6 d=1.26229 t=3469
+bi jing 	毕竟	c=1 d=0.0944202 t=3469
+bi mian 	避免	c=1 d=0.13068 t=3469
+bi ru 	比如	c=11 d=1.98708 t=3469
+bi xu 	必须	c=1 d=0.160414 t=3469
+bi zi 	鼻子	c=1 d=0.18452 t=3469
+bian cheng 	编程	c=1 d=0.2334 t=3469
+bian de 	变得	c=1 d=0.88692 t=3469
+bian geng 	变更	c=1 d=1 t=3248
+bian hua 	变化	c=5 d=1.01458 t=3469
+bian jie 	便捷	c=0 d=0.0261846 t=3469
+bian jie 	边界	c=1 d=0.818731 t=3469
+bian jie ban 	便捷版	c=2 d=0.653786 t=3469
+bian kuang 	边框	c=1 d=0.900325 t=3469
+bian lai 	变来	c=1 d=1 t=3422
+bian li 	遍历	c=4 d=0.988542 t=3469
+bian liang 	变量	c=6 d=3.9263 t=3423
+bian wei 	变为	c=6 d=1.339 t=3469
+bian yi 	编译	c=1 d=1 t=3257
+biao 	表	c=4 d=1.61045 t=3469
+biao da shi 	表达式	c=1 d=0.216536 t=3469
+biao qian 	标签	c=1 d=0.311923 t=3469
+biao shi 	表示	c=1 d=0.216536 t=3469
+biao ti 	标题	c=1 d=0.865193 t=3469
+biao ti chu 	标题处	c=1 d=0.548812 t=3469
+bie 	别	c=1 d=0.336216 t=3469
+bie ren 	别人	c=1 d=0.97531 t=3469
+bing qie 	并且	c=2 d=0.847927 t=3469
+bo ke 	博客	c=1 d=0.798516 t=3469
+bu 	不	c=4 d=0.393476 t=3469
+bu 	步	c=3 d=0.690368 t=3469
+bu an 	不安	c=1 d=0.22091 t=3469
+bu an 	不按	c=1 d=0.224249 t=3469
+bu bi 	不必	c=1 d=0.329559 t=3469
+bu chu li 	不处理	c=1 d=1 t=3448
+bu cun huo 	不存活	c=1 d=0.268474 t=3469
+bu fen 	部分	c=1 d=0.0930145 t=3469
+bu geng xin 	不更新	c=1 d=0.323033 t=3469
+bu guo 	不过	c=1 d=1 t=3171
+bu hui 	不会	c=3 d=1.12837 t=3469
+bu ke 	不可	c=2 d=0.928414 t=3469
+bu ke chong fu du 	不可重复读	c=4 d=0.899155 t=3469
+bu liao 	不了	c=2 d=0.860768 t=3469
+bu neng 	不能	c=20 d=3.78625 t=3469
+bu pi pei 	不匹配	c=1 d=0.319819 t=3469
+bu qi zuo yong 	不起作用	c=1 d=0.13466 t=3469
+bu ran 	不然	c=1 d=0.701173 t=3469
+bu shao 	不少	c=2 d=0.392185 t=3469
+bu sheng xiao 	不生效	c=2 d=0.202535 t=3469
+bu shi 	不是	c=6 d=1.20674 t=3469
+bu shu 	部署	c=2 d=0.619413 t=3469
+bu tai 	不太	c=1 d=1 t=3416
+bu tai hao 	不太好	c=2 d=1.29736 t=3469
+bu tong 	不同	c=5 d=1.30811 t=3469
+bu tong de 	不同的	c=1 d=0.501576 t=3469
+bu xian shi 	不显示	c=1 d=0.0862936 t=3469
+bu xiang 	不想	c=1 d=0.585669 t=3469
+bu xing 	不行	c=1 d=0.0575558 t=3469
+bu xiu gai 	不修改	c=1 d=1 t=3363
+bu xu yao 	不需要	c=5 d=1.65513 t=3469
+bu yao 	不要	c=8 d=0.96136 t=3469
+bu yi ding 	不一定	c=1 d=0.0977834 t=3469
+bu ying xiang 	不影响	c=1 d=0.301194 t=3469
+bu yong 	不用	c=2 d=0.649126 t=3469
+bu zheng chang 	不正常	c=1 d=0.810584 t=3469
+bu zhi chi 	不支持	c=2 d=1.88692 t=3168
+bu zhou 	步骤	c=2 d=0.660297 t=3469
+bu zou 	不走	c=1 d=0.690734 t=3469
+cai 	才	c=1 d=0.10383 t=3469
+cai hui 	才会	c=1 d=0.183599 t=3469
+cai neng 	才能	c=4 d=0.886126 t=3469
+cang ku 	仓库	c=1 d=0.690734 t=3469
+cao zuo 	操作	c=2 d=0.695539 t=3469
+cao zuo xi tong 	操作系统	c=1 d=1 t=3153
+ce shi 	测试	c=25 d=9.94917 t=3469
+ce shi kai fa gong cheng shi 	测试开发工程师	c=0 d=0.033454 t=3469
+cha bu duo 	差不多	c=2 d=0.986038 t=3469
+cha jian 	插件	c=1 d=0.126186 t=3469
+cha kan 	查看	c=4 d=0.737124 t=3469
+cha ru 	插入	c=5 d=3.62075 t=3469
+cha xun 	查询	c=7 d=1.57228 t=3469
+cha xun jie guo 	查询结果	c=1 d=0.191092 t=3469
+chang 	厂	c=0 d=0.0377192 t=3469
+chang du 	长度	c=1 d=0.774916 t=3469
+chang jian 	常见	c=1 d=0.140156 t=3469
+chang jing 	场景	c=1 d=0.0731678 t=3469
+chang jiu 	长久	c=1 d=0.256661 t=3469
+cheng gong 	成功	c=5 d=0.852502 t=3469
+cheng xu 	程序	c=1 d=0.965605 t=3469
+cheng yuan 	成员	c=3 d=2.34576 t=3385
+cheng yuan bian liang 	成员变量	c=1 d=1 t=3179
+chi jiu xing 	持久性	c=2 d=0.236412 t=3469
+chong fu 	重复	c=1 d=0.83527 t=3469
+chong fu du 	重复度	c=1 d=0.909373 t=3469
+chong xin 	重新	c=2 d=0.585669 t=3469
+chong zhi 	重置	c=1 d=0.406569 t=3469
+chou li 	抽离	c=1 d=0.97531 t=3469
+chu 	出	c=5 d=1.53366 t=3469
+chu 	处	c=0 d=0.0546074 t=3469
+chu fa 	触发	c=4 d=1.95888 t=3469
+chu jie 	初阶	c=2 d=1.09764 t=3469
+chu jue 	触觉	c=2 d=0.664183 t=3469
+chu lai 	出来	c=1 d=0.980199 t=3469
+chu le 	除了	c=2 d=1.56933 t=3469
+chu li 	处理	c=4 d=0.874383 t=3469
+chu shi 	初识	c=1 d=0.0724398 t=3469
+chu xian 	出现	c=9 d=0.952723 t=3469
+chuan ru 	传入	c=6 d=5.04514 t=3469
+chuan xing hua 	串行化	c=3 d=1.63286 t=3469
+chuang jian 	创建	c=2 d=0.317531 t=3469
+chuang kou 	窗口	c=10 d=4.7016 t=3469
+chun cui 	纯粹	c=2 d=0.85986 t=3469
+ci dian 	词典	c=2 d=0.904837 t=3469
+ci shi 	此时	c=6 d=2.95476 t=3469
+cong 	从	c=2 d=0.590838 t=3469
+cong er 	从而	c=2 d=0.582748 t=3469
+cong na li 	从哪里	c=1 d=0.127454 t=3469
+cong qian 	从前	c=0 d=0.0307279 t=3469
+cong qian wan hou 	从前完后	c=1 d=0.308819 t=3469
+cong qian wang hou 	从前往后	c=3 d=1.35296 t=3469
+cun 	村	c=0 d=0.011475 t=3469
+cun huo 	存活	c=2 d=0.558858 t=3469
+cun zai 	存在	c=2 d=0.947139 t=3469
+cuo 	错	c=1 d=0.744531 t=3469
+cuo bie zi 	错别字	c=1 d=0.436049 t=3469
+cuo shi 	措施	c=1 d=1 t=3177
+cuo wu 	错误	c=2 d=1.40252 t=3469
+da 	打	c=4 d=1.36824 t=3469
+da an 	答案	c=2 d=1.98511 t=3253
+da biao 	大表	c=1 d=0.07502 t=3469
+da bing 	大兵	c=1 d=0.985112 t=3469
+da bu fen 	大部分	c=1 d=0.202909 t=3469
+da chu 	打出	c=2 d=0.672734 t=3469
+da dao 	达到	c=1 d=0.343008 t=3469
+da kai 	打开	c=5 d=1.31816 t=3469
+da liang 	大量	c=1 d=0.0765356 t=3469
+da nao 	大脑	c=1 d=0.341298 t=3469
+da yin 	打印	c=3 d=1.11762 t=3469
+da yu 	大于	c=3 d=1.99939 t=3469
+da yue 	大约	c=2 d=0.215082 t=3469
+da zhi 	打制	c=1 d=0.891366 t=3469
+da zi 	打字	c=1 d=0.895834 t=3469
+dai ma 	代码	c=10 d=2.10314 t=3469
+dai ma kuai 	代码块	c=3 d=0.311412 t=3469
+dai zai 	待在	c=1 d=0.683861 t=3469
+dan 	但	c=2 d=0.658256 t=3469
+dan biao 	单表	c=1 d=0.137381 t=3469
+dan dan de 	淡淡的	c=3 d=0.496585 t=3469
+dan diao 	单调	c=1 d=0.362402 t=3469
+dan ge 	单个	c=1 d=0.138069 t=3469
+dan shi 	但是	c=23 d=2.56139 t=3469
+dan wei 	单位	c=1 d=0.650509 t=3469
+dan yi 	单一	c=1 d=0.196912 t=3469
+dang qian 	当前	c=7 d=1.88406 t=3469
+dang zuo 	当作	c=0 d=0.0276651 t=3469
+dang zuo wei 	当作为	c=1 d=0.278037 t=3469
+dao 	到	c=12 d=2.3079 t=3469
+dao zhi 	导致	c=8 d=1.86566 t=3469
+de 	的	c=234 d=20.186 t=3469
+de dao 	得到	c=1 d=0.585669 t=3469
+deng 	等	c=8 d=1.8923 t=3469
+di 	弟	c=1 d=0.215456 t=3469
+di 	第	c=2 d=0.455845 t=3469
+di dian 	地点	c=2 d=0.54139 t=3469
+di fang 	地方	c=4 d=0.982557 t=3469
+di zhi 	地址	c=2 d=0.694197 t=3469
+dian 	点	c=2 d=0.942326 t=3469
+dian bao 	电报	c=2 d=0.185214 t=3469
+dian ji 	点击	c=8 d=3.00995 t=3469
+dian nao 	电脑	c=2 d=0.976497 t=3469
+dian yuan 	电源	c=1 d=0.932394 t=3469
+diao 	掉	c=1 d=0.88692 t=3469
+diao du 	调度	c=1 d=0.66034 t=3469
+diao yong 	调用	c=5 d=0.833647 t=3469
+ding ge 	顶格	c=1 d=0.60653 t=3469
+ding shi 	定时	c=2 d=1.50543 t=3469
+ding wei 	定位	c=3 d=1.04668 t=3469
+ding yi 	定义	c=2 d=0.637628 t=3469
+dong xi 	东西	c=2 d=0.359433 t=3469
+dong zuo 	动作	c=1 d=0.960789 t=3469
+dou 	都	c=4 d=0.963488 t=3469
+dou bu neng 	都不能	c=1 d=0.0837432 t=3469
+dou ke yi 	都可以	c=1 d=0.0780816 t=3469
+dou shi 	都是	c=5 d=1.4335 t=3469
+dou xu yao 	都需要	c=1 d=0.591555 t=3469
+du 	读	c=2 d=1.07963 t=3469
+du li 	独立	c=1 d=0.722527 t=3469
+du qu 	读取	c=6 d=2.58183 t=3469
+du qu dao 	读取到	c=2 d=0.744616 t=3469
+du wei ti jiao 	读未提交	c=2 d=0.900325 t=3469
+duan dian 	断电	c=1 d=0.114178 t=3469
+dui 	对	c=4 d=0.667558 t=3469
+dui xiang 	对象	c=2 d=0.869358 t=3469
+duo chu 	多出	c=1 d=0.0833256 t=3469
+duo ci 	多次	c=1 d=1 t=3129
+duo duan 	多端	c=1 d=0.136014 t=3469
+duo duan tong bu 	多端同步	c=1 d=0.138761 t=3469
+duo ge 	多个	c=1 d=0.597501 t=3469
+duo hang 	多行	c=2 d=0.281731 t=3469
+duo jiu 	多久	c=1 d=0.0555762 t=3469
+duo xian cheng 	多线程	c=2 d=0.548812 t=3469
+duo yu 	多余	c=1 d=0.131335 t=3469
+er 	而	c=4 d=0.958123 t=3469
+er bu shi 	而不是	c=9 d=2.44752 t=3469
+er mei you 	而没有	c=1 d=0.324652 t=3469
+er qie 	而且	c=5 d=0.951961 t=3469
+er shi 	而是	c=4 d=0.209494 t=3469
+fa 	法	c=1 d=0.123687 t=3469
+fa san 	发散	c=1 d=0.70822 t=3469
+fa sheng 	发生	c=1 d=0.400517 t=3469
+fa xian 	发现	c=11 d=2.00892 t=3469
+fan hui 	返回	c=5 d=2.32395 t=3469
+fan wei 	范围	c=1 d=0.532592 t=3469
+fang 	放	c=1 d=0.895834 t=3469
+fang an 	方案	c=1 d=0.310367 t=3469
+fang bian 	方便	c=7 d=1.965 t=3469
+fang fa 	方法	c=8 d=1.02713 t=3469
+fang ru 	放入	c=1 d=1 t=3223
+fang wen 	访问	c=6 d=1.32627 t=3469
+fei 	非	c=3 d=0.55575 t=3469
+fei zi yuan 	非自愿	c=1 d=0.216536 t=3469
+fen 	分	c=1 d=0.196912 t=3469
+fen bie 	分别	c=1 d=0.20089 t=3469
+fen ge 	分割	c=1 d=0.472367 t=3469
+fen wei 	分为	c=1 d=0.331211 t=3469
+fen xi 	分析	c=1 d=0.57695 t=3469
+fu gai 	覆盖	c=1 d=0.882497 t=3469
+fu he suo yin 	复合索引	c=3 d=0.500056 t=3469
+fu mo 	抚摸	c=1 d=0.254107 t=3469
+fu wu yu 	服务于	c=1 d=0.162838 t=3469
+fu za 	复杂	c=3 d=0.76559 t=3469
+fu ze 	负责	c=1 d=0.16696 t=3469
+fu zhi 	复制	c=1 d=1 t=3322
+gai 	该	c=1 d=0.396532 t=3469
+gai wei 	改为	c=1 d=0.126818 t=3469
+gan jue 	感觉	c=3 d=0.854224 t=3469
+gan rao 	干扰	c=2 d=1.0449 t=3469
+gang hao 	刚好	c=2 d=1.73464 t=3469
+gang wei 	岗位	c=1 d=0.271173 t=3469
+gao pin 	高频	c=1 d=0.637628 t=3469
+gao su 	告诉	c=2 d=0.895834 t=3469
+ge 	个	c=1 d=0.612626 t=3469
+ge ge 	各个	c=2 d=0.830934 t=3469
+ge li 	隔离	c=1 d=0.882497 t=3469
+ge li xing 	隔离型	c=1 d=0.166127 t=3469
+ge li xing 	隔离性	c=3 d=0.451802 t=3469
+ge ren 	个人	c=3 d=1.59869 t=3469
+ge zi 	各自	c=1 d=0.715338 t=3469
+gei 	给	c=5 d=1.30728 t=3469
+gei wo 	给我	c=12 d=1.50017 t=3469
+gen ben 	根本	c=1 d=0.090718 t=3469
+gen ju 	根据	c=4 d=1.34848 t=3469
+gen zhe 	跟着	c=1 d=1 t=3301
+geng hao 	更好	c=1 d=0.891367 t=3469
+geng jia 	更加	c=1 d=0.467666 t=3469
+geng xin 	更新	c=6 d=1.63601 t=3469
+gong gong 	公共	c=1 d=0.99005 t=3469
+gong ji 	攻击	c=1 d=0.752014 t=3469
+gong ju 	工具	c=2 d=0.976966 t=3469
+gong neng 	功能	c=6 d=0.839457 t=3469
+gong tong dian 	共同点	c=2 d=0.874305 t=3469
+gong yong 	共用	c=1 d=0.774916 t=3469
+gong zuo 	工作	c=2 d=1.42596 t=3469
+gou jian 	构建	c=4 d=1.18338 t=3469
+gou tong 	沟通	c=1 d=0.628135 t=3469
+guan bi 	关闭	c=7 d=1.05192 t=3469
+guan cha 	观察	c=1 d=0.574072 t=3469
+guan che 	贯彻	c=1 d=0.449329 t=3469
+guan fang qun 	官方群	c=1 d=0.0497871 t=3469
+guan li 	管理	c=1 d=1 t=3141
+guan wang 	官网	c=0 d=0.00513033 t=3469
+guan wang qun 	官网群	c=1 d=0.0515605 t=3469
+guan xi 	关系	c=3 d=0.620962 t=3469
+gui ze 	规则	c=1 d=0.232237 t=3469
+guo 	过	c=1 d=0.625003 t=3469
+guo chang 	过长	c=1 d=0.0880368 t=3469
+guo cheng 	过程	c=3 d=0.766932 t=3469
+guo le 	过了	c=4 d=2.01696 t=3469
+hai 	还	c=3 d=0.467452 t=3469
+hai shi 	还是	c=5 d=0.952562 t=3469
+hai yao 	还要	c=1 d=0.798516 t=3469
+hai you mei you 	还有没有	c=1 d=0.860708 t=3469
+hang 	行	c=2 d=0.224703 t=3469
+hang nei 	行内	c=1 d=0.123871 t=3469
+hang nei dai ma kuai 	行内代码块	c=2 d=0.312201 t=3469
+hao 	号	c=2 d=0.244302 t=3469
+hao le 	好了	c=2 d=0.843665 t=3469
+he 	合	c=1 d=0.491644 t=3469
+he 	和	c=4 d=0.794785 t=3469
+he fa 	合法	c=1 d=0.955997 t=3469
+he li 	合理	c=1 d=1 t=3417
+he shi 	合适	c=1 d=0.108067 t=3469
+hei se 	黑色	c=4 d=0.849228 t=3469
+hen ming xian 	很明显	c=1 d=0.71177 t=3469
+hen qi guai 	很奇怪	c=1 d=0.331211 t=3469
+hen xiang 	很响	c=1 d=0.110251 t=3469
+hou 	后	c=19 d=2.12613 t=3469
+hou mian 	后面	c=1 d=0.436049 t=3469
+hou tai 	后台	c=5 d=0.840811 t=3469
+hou tai xian cheng 	后台线程	c=2 d=0.554573 t=3469
+hou zhe 	后者	c=1 d=0.349938 t=3469
+hou zhui 	后缀	c=1 d=0.637628 t=3469
+hu bu gan rao 	互不干扰	c=1 d=0.802519 t=3469
+hu ran 	忽然	c=1 d=0.263158 t=3469
+hua 	话	c=1 d=1 t=3309
+hua dong 	滑动	c=5 d=1.99822 t=3469
+hua dong chuang kou 	滑动窗口	c=2 d=0.903082 t=3469
+hua tu 	画图	c=1 d=0.355226 t=3469
+huan du 	幻读	c=10 d=5.41615 t=3469
+huan hang 	换行	c=1 d=0.0765355 t=3469
+huan jing 	环境	c=1 d=0.479505 t=3469
+hui 	会	c=18 d=2.23063 t=3469
+hui bao 	汇报	c=1 d=0.0590129 t=3469
+hui bian hao 	会变好	c=1 d=1 t=3329
+hui chu xian 	会出现	c=1 d=0.280832 t=3469
+hui fu 	恢复	c=1 d=0.509156 t=3469
+hui gun 	回滚	c=2 d=0.506617 t=3469
+hui kuan 	汇款	c=1 d=0.198891 t=3469
+hui shou 	回收	c=1 d=0.166127 t=3469
+hui tui 	回退	c=1 d=0.951229 t=3469
+hui you 	会有	c=2 d=0.389 t=3469
+huo qu 	获取	c=2 d=1.00366 t=3469
+huo rong 	火绒	c=1 d=0.537944 t=3469
+huo zhe 	或者	c=2 d=0.37344 t=3469
+ji 	挤	c=2 d=0.343617 t=3469
+ji 	级	c=2 d=1.09483 t=3469
+ji ben 	基本	c=1 d=0.647265 t=3469
+ji ben dan wei 	基本单位	c=1 d=0.67032 t=3469
+ji bie 	级别	c=3 d=1.77828 t=3469
+ji ge 	几个	c=1 d=0.486752 t=3469
+ji ke 	即可	c=7 d=3.36316 t=3469
+ji lu 	记录	c=3 d=0.904837 t=3469
+ji qi 	极其	c=3 d=0.183567 t=3469
+ji shi ben 	记事本	c=1 d=0.460704 t=3469
+ji suan 	计算	c=2 d=1.5423 t=3469
+ji xu 	继续	c=1 d=0.481909 t=3469
+ji zhi 	机制	c=1 d=0.167797 t=3469
+jia 	加	c=1 d=0.0502874 t=3469
+jia she 	假设	c=1 d=0.2334 t=3469
+jia shou 	假手	c=3 d=0.819057 t=3469
+jia zhi 	假肢	c=2 d=0.501979 t=3469
+jia zhuang 	假装	c=1 d=0.231078 t=3469
+jian dan 	简单	c=3 d=0.904879 t=3469
+jian ge 	间隔	c=1 d=0.0792617 t=3469
+jian shao 	减少	c=2 d=0.221255 t=3469
+jian yi 	建议	c=1 d=0.158025 t=3469
+jiang di 	降低	c=1 d=0.298197 t=3469
+jiang lai 	将来	c=1 d=0.0972957 t=3469
+jiao duo 	较多	c=1 d=0.612626 t=3469
+jiao xiao 	较小	c=1 d=0.540641 t=3469
+jiao zuo 	叫作	c=1 d=0.121238 t=3469
+jie gou 	结构	c=3 d=0.858267 t=3469
+jie guo 	结果	c=10 d=2.13841 t=3469
+jie jue 	解决	c=6 d=0.948581 t=3469
+jie shi 	解释	c=1 d=0.213312 t=3469
+jie shu 	结束	c=13 d=2.33445 t=3469
+jie ti 	解题	c=2 d=1.15649 t=3469
+jin 	进	c=0 d=0.0657047 t=3469
+jin cheng 	进程	c=15 d=9.03487 t=3469
+jin chuang kou 	进窗口	c=2 d=1.36856 t=3469
+jin du 	进度	c=1 d=1 t=3166
+jin jin 	仅仅	c=4 d=0.334153 t=3469
+jin qu 	进去	c=1 d=0.0867261 t=3469
+jin ru 	进入	c=1 d=0.543351 t=3469
+jin xing 	进行	c=4 d=0.67449 t=3469
+jiu 	就	c=12 d=1.8723 t=3469
+jiu bu 	就不	c=0 d=0.0244143 t=3469
+jiu bu man zu 	就不满足	c=1 d=0.245367 t=3469
+jiu bu xu yao 	就不需要	c=2 d=0.752014 t=3469
+jiu bu yao 	就不要	c=1 d=0.132655 t=3469
+jiu hui 	就会	c=9 d=4.76489 t=3469
+jiu ke 	就可	c=1 d=0.637628 t=3469
+jiu ke yi 	就可以	c=1 d=0.388679 t=3469
+jiu shi 	就是	c=8 d=1.366 t=3469
+jiu xu yao 	就需要	c=2 d=0.643134 t=3469
+jiu yao 	就要	c=5 d=1.11979 t=3469
+jiu you 	就有	c=1 d=0.759572 t=3469
+ju bei 	具备	c=2 d=1.01699 t=3469
+ju bu 	局部	c=2 d=1.8311 t=3298
+ju da 	巨大	c=1 d=1 t=3388
+ju jue 	拒绝	c=1 d=0.985112 t=3469
+ju xian yu 	局限于	c=1 d=0.715338 t=3469
+jue de 	觉得	c=2 d=1.87472 t=3469
+kai fa 	开发	c=9 d=4.27833 t=3469
+kai qi 	开启	c=5 d=2.68046 t=3469
+kai shi 	开始	c=4 d=1.25314 t=3469
+kai yuan 	开源	c=1 d=0.249075 t=3469
+kan 	看	c=3 d=0.733837 t=3469
+kan 	砍	c=1 d=0.264477 t=3469
+kan kan 	看看	c=2 d=1.25397 t=3469
+kan qi lai 	看起来	c=1 d=0.412714 t=3469
+kao lv 	考虑	c=1 d=0.802519 t=3469
+ke chong fu du 	可重复读	c=2 d=0.932394 t=3469
+ke jian 	可见	c=1 d=0.339596 t=3469
+ke mu si 	科目四	c=1 d=0.0710054 t=3469
+ke yi 	可以	c=28 d=2.64385 t=3469
+ke zhi xing 	可执行	c=1 d=0.438235 t=3469
+kong 	空	c=1 d=0.878095 t=3469
+kong ge 	空格	c=1 d=0.106458 t=3469
+kong tiao 	空调	c=2 d=0.224479 t=3469
+kong zhi 	控制	c=1 d=1 t=3181
+kou fei 	扣费	c=1 d=0.131994 t=3469
+kuai 	块	c=2 d=0.261496 t=3469
+kuai jie jian 	快捷键	c=1 d=0.285076 t=3469
+kuai su 	快速	c=2 d=0.522046 t=3469
+kuai ying yong 	快应用	c=1 d=0.136696 t=3469
+kuan du 	宽度	c=2 d=0.29406 t=3469
+la ji 	垃圾	c=1 d=0.165299 t=3469
+lai 	来	c=12 d=2.74406 t=3469
+lan jie 	拦截	c=1 d=0.814647 t=3469
+lan qiao bei 	蓝桥杯	c=1 d=0.229925 t=3469
+le 	了	c=54 d=6.52372 t=3469
+lei si 	类似	c=1 d=0.0724398 t=3469
+lei xing 	类型	c=1 d=0.305746 t=3469
+li ji 	立即	c=1 d=1 t=3404
+li jie 	理解	c=1 d=1 t=3286
+li mian 	里面	c=15 d=3.26775 t=3469
+li zi 	例子	c=1 d=1 t=3291
+liang ci 	两次	c=2 d=0.658604 t=3469
+liang ge 	两个	c=3 d=0.76716 t=3469
+lie 	列	c=2 d=0.182394 t=3469
+lie biao 	列表	c=1 d=0.180866 t=3469
+ling 	令	c=1 d=0.644036 t=3469
+ling yi ge 	另一个	c=6 d=1.79711 t=3469
+liu lan 	浏览	c=1 d=0.436049 t=3469
+liu lan qi 	浏览器	c=3 d=1.59257 t=3469
+lu 	路	c=0 d=0.011475 t=3469
+lu yu cheng 	卢昱城	c=5 d=0.568055 t=3469
+luan xu 	乱序	c=1 d=0.847894 t=3469
+luo ji 	逻辑	c=7 d=1.85282 t=3469
+ma 	吗	c=2 d=0.143226 t=3469
+ma fan 	麻烦	c=4 d=0.891367 t=3469
+man zu 	满足	c=8 d=1.27919 t=3469
+mang da 	盲打	c=1 d=0.104874 t=3469
+mei ci 	每次	c=1 d=0.199888 t=3469
+mei ge 	每个	c=2 d=0.866239 t=3469
+mei tian 	每天	c=2 d=1.77185 t=3469
+mei wen ti 	没问题	c=2 d=0.847893 t=3469
+mei yi ci 	每一次	c=1 d=0.588605 t=3469
+mei you 	没有	c=30 d=5.8952 t=3469
+mei you yong 	没有用	c=1 d=0.20089 t=3469
+mi mi ma ma 	密密麻麻	c=1 d=0.167797 t=3469
+mian fei 	免费	c=1 d=0.247833 t=3469
+mian shi 	面试	c=2 d=0.703176 t=3469
+ming 	明	c=1 d=0.371577 t=3469
+ming cheng 	名称	c=1 d=0.0925506 t=3469
+ming xian 	明显	c=1 d=0.308819 t=3469
+ming zhong 	命中	c=1 d=0.390628 t=3469
+ming zi 	名字	c=2 d=0.422384 t=3469
+mo ni 	模拟	c=1 d=0.346456 t=3469
+mo ren 	默认	c=3 d=0.5046 t=3469
+mo shi 	模式	c=2 d=0.931077 t=3469
+mu biao 	目标	c=1 d=0.223131 t=3469
+mu biao zhi 	目标值	c=1 d=0.748264 t=3469
+mu di di 	目的地	c=1 d=0.193013 t=3469
+mu lu 	目录	c=6 d=3.63062 t=3469
+mu nai yi 	木乃伊	c=3 d=1.44327 t=3469
+na 	那	c=9 d=0.87735 t=3469
+na ge 	哪个	c=2 d=0.310686 t=3469
+na ge 	那个	c=2 d=0.597501 t=3469
+na jiu shi 	那就是	c=1 d=1 t=3391
+na li 	哪里	c=2 d=1.51082 t=3469
+na li 	那里	c=2 d=0.68045 t=3469
+na me 	那么	c=35 d=3.67061 t=3469
+na xie 	哪些	c=3 d=2.19169 t=3469
+na xie 	那些	c=1 d=0.412714 t=3469
+na yi ge 	哪一个	c=1 d=0.398519 t=3469
+nan yi 	难以	c=1 d=0.245367 t=3469
+ne 	呢	c=27 d=4.89654 t=3469
+nei 	内	c=8 d=1.88687 t=3469
+nei rong 	内容	c=8 d=1.86724 t=3469
+neng bu neng 	能不能	c=16 d=2.19392 t=3469
+neng li 	能力	c=5 d=3.28622 t=3469
+ni 	你	c=21 d=4.16715 t=3469
+ni kan kan 	你看看	c=1 d=0.677057 t=3469
+ni ming nei bu lei 	匿名内部类	c=1 d=1 t=3271
+ni zhi xu yao 	你只需要	c=1 d=0.0972957 t=3469
+niu nai 	牛奶	c=1 d=0.123687 t=3469
+nong diao 	弄掉	c=1 d=0.0958472 t=3469
+nv sheng 	女生	c=1 d=0.239309 t=3469
+nv xing 	女性	c=1 d=0.246597 t=3469
+pai chu 	排除	c=1 d=0.264477 t=3469
+pai xu 	排序	c=2 d=0.770937 t=3469
+pan duan 	判断	c=12 d=5.18099 t=3469
+pan wang 	盼望	c=1 d=0.597501 t=3469
+pang bian 	旁边	c=1 d=0.594521 t=3469
+pao chu 	抛出	c=1 d=1 t=3445
+pei zhi 	配置	c=23 d=4.67348 t=3469
+pi liang 	批量	c=1 d=0.937067 t=3469
+pi pei 	匹配	c=5 d=1.1222 t=3469
+pin xie 	拼写	c=2 d=0.45656 t=3469
+pin ying 	拼英	c=5 d=1.39429 t=3469
+qi dong 	启动	c=4 d=1.03665 t=3469
+qi e 	企鹅	c=1 d=0.122456 t=3469
+qi lai 	起来	c=2 d=0.20061 t=3469
+qi pian 	欺骗	c=1 d=0.349938 t=3469
+qi ta 	其他	c=12 d=1.49611 t=3469
+qi wang 	期望	c=2 d=0.350253 t=3469
+qian 	前	c=3 d=0.541135 t=3469
+qian 	钱	c=3 d=1.21852 t=3469
+qian mian 	前面	c=3 d=0.55199 t=3469
+qian tai 	前台	c=4 d=0.722012 t=3469
+qian tai xian cheng 	前台线程	c=1 d=0.170408 t=3469
+qian tai xian cheng de 	前台线程的	c=1 d=0.163654 t=3469
+qian ti 	前提	c=1 d=0.918512 t=3469
+qian zhe 	前者	c=1 d=0.337902 t=3469
+qiang 	强	c=1 d=0.161217 t=3469
+qiang po 	强迫	c=3 d=0.653397 t=3469
+qiang zhi 	强制	c=3 d=2.80086 t=3169
+qie huan 	切换	c=2 d=0.349938 t=3469
+qing kuang 	情况	c=9 d=1.47778 t=3469
+qing li 	清理	c=3 d=1.47256 t=3469
+qing qiu 	请求	c=1 d=0.810584 t=3469
+qu bie 	区别	c=4 d=1.09168 t=3469
+qu jian 	区间	c=2 d=1.32243 t=3469
+qu na li 	去哪里	c=1 d=0.0500366 t=3469
+quan bu 	全部	c=2 d=0.13466 t=3469
+quan shi 	全是	c=1 d=0.585669 t=3469
+quan zhong 	圈中	c=1 d=0.680451 t=3469
+que 	却	c=1 d=0.331211 t=3469
+que ding 	确定	c=1 d=0.382893 t=3469
+qun 	群	c=0 d=0.00513033 t=3469
+ran hou 	然后	c=6 d=1.78014 t=3469
+rang 	让	c=1 d=0.878095 t=3469
+rang wo 	让我	c=1 d=0.289384 t=3469
+ren 	人	c=1 d=0.190139 t=3469
+ren qi 	人妻	c=1 d=1 t=3114
+ren shi 	认识	c=1 d=0.257947 t=3469
+ren ti 	人体	c=3 d=0.88846 t=3469
+ren yi 	任意	c=1 d=1 t=3197
+ren yuan 	人员	c=1 d=0.287941 t=3469
+ri ben 	日本	c=1 d=0.245367 t=3469
+rong yi 	容易	c=1 d=0.900325 t=3469
+ru 	儒	c=0 d=0.011475 t=3469
+ru 	如	c=1 d=1 t=3236
+ru guo 	如果	c=42 d=4.4769 t=3469
+ru he 	如何	c=18 d=2.26822 t=3469
+ru tang tou cun 	儒堂头村	c=3 d=0.352967 t=3469
+ruan jian 	软件	c=13 d=2.79589 t=3469
+ruan jian ce shi gong cheng shi 	软件测试工程师	c=1 d=0.332871 t=3469
+ruan jian ce shi kai fa gong cheng shi 	软件测试开发工程师	c=1 d=0.336216 t=3469
+san 	三	c=1 d=0.154124 t=3469
+san ge 	三个	c=1 d=0.379083 t=3469
+sha bu 	纱布	c=1 d=0.66034 t=3469
+shan chu 	删除	c=6 d=1.9353 t=3469
+shang 	上	c=1 d=0.0566989 t=3469
+shang mian 	上面	c=6 d=0.912525 t=3469
+shang su 	上诉	c=4 d=2.74411 t=3384
+shang xia wen 	上下文	c=1 d=0.737123 t=3469
+shang yi 	上一	c=1 d=0.506617 t=3469
+shang yi ci 	上一次	c=2 d=0.523266 t=3469
+shang yi ji 	上一集	c=3 d=1.68733 t=3469
+she ji 	设计	c=3 d=0.895362 t=3469
+she wei 	设为	c=1 d=0.149569 t=3469
+she zhi 	设置	c=12 d=4.74384 t=3469
+shen me 	什么	c=6 d=0.325259 t=3469
+shen me shi hou 	什么时候	c=1 d=0.241714 t=3469
+shen pi 	审批	c=1 d=0.301194 t=3469
+shen se 	深色	c=1 d=0.694197 t=3469
+sheng cheng 	生成	c=4 d=1.2841 t=3469
+sheng ji 	升级	c=2 d=0.61633 t=3469
+sheng lve 	省略	c=1 d=0.458406 t=3469
+sheng ming 	生命	c=1 d=0.458406 t=3469
+sheng ri kuai le 	生日快乐	c=1 d=0.729789 t=3469
+sheng xiao 	生效	c=1 d=0.26054 t=3469
+sheng yin 	声音	c=1 d=0.126186 t=3469
+shi 	时	c=1 d=0.244143 t=3469
+shi 	是	c=91 d=7.83381 t=3469
+shi bai 	失败	c=3 d=0.95292 t=3469
+shi bu shi 	是不是	c=2 d=0.489192 t=3469
+shi chang 	市场	c=1 d=0.235746 t=3469
+shi fou 	是否	c=13 d=2.30235 t=3469
+shi hou 	时候	c=18 d=2.44125 t=3469
+shi jian 	时间	c=3 d=0.79326 t=3469
+shi jian zhou 	时间轴	c=1 d=0.588605 t=3469
+shi jue 	视觉	c=2 d=0.65925 t=3469
+shi le 	试了	c=1 d=0.562705 t=3469
+shi pin 	视频	c=6 d=1.14501 t=3469
+shi wu 	事务	c=24 d=10.1261 t=3469
+shi xian 	实现	c=7 d=1.69641 t=3469
+shi xiao 	失效	c=7 d=1.35258 t=3469
+shi yan 	实验	c=2 d=0.536944 t=3469
+shi yong 	使用	c=34 d=3.11273 t=3469
+shi yong 	适用	c=3 d=1.13696 t=3469
+shi yong yu 	适用于	c=1 d=1 t=3469
+shi zhong 	始终	c=1 d=0.511709 t=3469
+shou 	手	c=3 d=0.818332 t=3469
+shou hu 	守护	c=1 d=0.147342 t=3469
+shou hu xian cheng 	守护线程	c=1 d=0.151829 t=3469
+shou hui lai 	收回来	c=2 d=0.212418 t=3469
+shou ji 	手机	c=4 d=0.431061 t=3469
+shou ji ban 	手机版	c=1 d=0.14808 t=3469
+shu 	书	c=1 d=0.227638 t=3469
+shu 	树	c=2 d=0.593 t=3469
+shu biao 	鼠标	c=2 d=0.156212 t=3469
+shu chu 	输出	c=1 d=0.516851 t=3469
+shu ju 	数据	c=17 d=6.47003 t=3469
+shu ju ku 	数据库	c=1 d=0.878095 t=3469
+shu ru 	输入	c=4 d=0.298203 t=3469
+shu ru fa 	输入法	c=4 d=1.02114 t=3469
+shu ru kuang 	输入框	c=1 d=0.0916297 t=3469
+shu xing 	属性	c=3 d=0.295818 t=3469
+shu zi 	数字	c=1 d=0.755784 t=3469
+shu zu 	数组	c=2 d=1.61172 t=3469
+shuang ji 	双击	c=1 d=0.275271 t=3469
+shuang zhi zhen 	双指针	c=0 d=0.0375311 t=3469
+shun xu 	顺序	c=5 d=1.24109 t=3469
+shuo 	说	c=2 d=0.942949 t=3469
+shuo ming 	说明	c=1 d=0.431711 t=3469
+si kao 	思考	c=1 d=0.56836 t=3469
+si lu 	思路	c=1 d=0.571209 t=3469
+si wei 	思维	c=2 d=1.39885 t=3469
+si xun huan 	死循环	c=2 d=1.00337 t=3469
+sou suo 	搜索	c=1 d=0.0982735 t=3469
+su zhi 	素质	c=1 d=0.293758 t=3469
+suan bu suan 	算不算	c=1 d=0.744532 t=3469
+suan fa 	算法	c=1 d=0.0695994 t=3469
+sui ran 	虽然	c=3 d=0.452005 t=3469
+suo yi 	所以	c=3 d=1.42225 t=3469
+suo yin 	索引	c=17 d=3.41267 t=3469
+suo yin lie 	索引列	c=1 d=0.299692 t=3469
+suo you 	所有	c=2 d=0.71177 t=3469
+suo you de 	所有的	c=1 d=0.179066 t=3469
+ta 	他	c=1 d=0.540641 t=3469
+ta 	她	c=1 d=0.194952 t=3469
+ta 	它	c=16 d=2.19158 t=3469
+ta men 	它们	c=2 d=0.647265 t=3469
+tai duo 	太多	c=2 d=0.879222 t=3469
+tai jiu 	太久	c=1 d=1 t=3395
+tan chu 	弹出	c=1 d=0.474734 t=3469
+tan suo 	探索	c=1 d=0.690734 t=3469
+tang 	堂	c=0 d=0.011475 t=3469
+tao can 	套餐	c=1 d=0.128735 t=3469
+te xing 	特性	c=1 d=0.32628 t=3469
+ti 	题	c=1 d=0.644036 t=3469
+ti gao 	提高	c=3 d=1.28836 t=3469
+ti jiao 	提交	c=2 d=1.50729 t=3469
+ti mu 	题目	c=3 d=1.79348 t=3469
+ti shi 	提示	c=6 d=2.18978 t=3469
+tian jia 	添加	c=4 d=1.15086 t=3469
+tiao 	条	c=1 d=0.733447 t=3469
+tiao dao 	跳到	c=5 d=0.421079 t=3469
+tiao jian 	条件	c=2 d=1.04105 t=3469
+tiao shi 	调试	c=1 d=0.217621 t=3469
+tiao zheng 	调整	c=1 d=0.215456 t=3469
+tiao zhi 	调制	c=1 d=0.216536 t=3469
+tiao zhuan 	跳转	c=3 d=2.12859 t=3469
+tong bu 	同步	c=7 d=0.744583 t=3469
+tong guo 	通过	c=9 d=2.77109 t=3469
+tong pei fu 	通配符	c=2 d=0.251234 t=3469
+tong shi 	同时	c=1 d=0.25284 t=3469
+tong xiang 	同向	c=1 d=0.379083 t=3469
+tong xiang 	通向	c=0 d=0.0375311 t=3469
+tong xiang shuang zhi zhen 	通向双指针	c=1 d=0.377192 t=3469
+tong yi ge 	同一个	c=1 d=0.447088 t=3469
+tou 	头	c=0 d=0.011475 t=3469
+tu pian 	图片	c=5 d=0.7516 t=3469
+tu ran 	突然	c=1 d=0.0934807 t=3469
+tu zhong 	图中	c=3 d=1.0557 t=3469
+tui hui 	退回	c=1 d=0.737123 t=3469
+tui jian 	推荐	c=6 d=2.16044 t=3469
+wai ji 	外籍	c=1 d=0.109701 t=3469
+wan 	完	c=6 d=1.84193 t=3469
+wan bi 	完毕	c=1 d=0.159614 t=3469
+wan dan 	完蛋	c=1 d=0.1764 t=3469
+wan hou 	完后	c=0 d=0.0307279 t=3469
+wan le 	完了	c=1 d=0.180866 t=3469
+wan pang 	完旁	c=1 d=0.600496 t=3469
+wan zheng 	完整	c=2 d=0.903887 t=3469
+wang 	王	c=1 d=0.373439 t=3469
+wang hou 	往后	c=1 d=0.371577 t=3469
+wang pan 	网盘	c=2 d=1.18045 t=3469
+wang ye 	网页	c=2 d=0.186625 t=3469
+wang zhi 	网址	c=5 d=0.462831 t=3469
+wei 	为	c=9 d=1.93401 t=3469
+wei bao cun 	未保存	c=2 d=0.662718 t=3469
+wei le 	为了	c=3 d=1.94496 t=3311
+wei li 	为例	c=1 d=1 t=3292
+wei shen me 	为什么	c=5 d=1.08525 t=3469
+wei ti jiao 	未提交	c=0 d=0.0895834 t=3469
+wei xin gong zhong hao 	微信公众号	c=1 d=0.0523397 t=3469
+wei zhi 	位置	c=1 d=0.108609 t=3469
+wen ben 	文本	c=1 d=0.0784731 t=3469
+wen jian 	文件	c=10 d=2.18185 t=3469
+wen jian jia 	文件夹	c=2 d=0.889826 t=3469
+wen ti 	问题	c=15 d=2.79202 t=3469
+weng weng 	嗡嗡	c=1 d=0.125556 t=3469
+wo 	我	c=63 d=10.3507 t=3469
+wo de 	我的	c=1 d=0.131336 t=3469
+wo men 	我们	c=1 d=0.847893 t=3469
+wu 	无	c=6 d=4.11051 t=3469
+wu guang gao 	无广告	c=1 d=0.250324 t=3469
+xi tong 	系统	c=1 d=0.384812 t=3469
+xi wang 	希望	c=1 d=0.543351 t=3469
+xia 	下	c=5 d=1.07168 t=3469
+xia gao 	瞎搞	c=1 d=0.113042 t=3469
+xia yi 	下移	c=1 d=0.313486 t=3469
+xia yi ge 	下一个	c=1 d=0.802519 t=3469
+xian 	先	c=3 d=0.163743 t=3469
+xian cheng 	线程	c=45 d=8.27433 t=3469
+xian ran 	显然	c=2 d=1.65051 t=3337
+xian shi 	显示	c=18 d=3.35804 t=3469
+xian shi ping 	显示屏	c=1 d=0.499074 t=3469
+xian zai 	现在	c=1 d=0.537944 t=3469
+xiang 	像	c=2 d=0.31867 t=3469
+xiang 	想	c=1 d=0.336216 t=3469
+xiang bi 	相比	c=1 d=0.980199 t=3469
+xiang dao 	想到	c=2 d=0.909618 t=3469
+xiang deng 	相等	c=2 d=0.31369 t=3469
+xiang guan 	相关	c=3 d=0.849912 t=3469
+xiang hu 	相互	c=1 d=0.869358 t=3469
+xiang jiao 	橡胶	c=0 d=0.0292293 t=3469
+xiang jiao shou 	橡胶手	c=1 d=0.293758 t=3469
+xiang si 	相似	c=2 d=1.8883 t=3469
+xiang yao 	想要	c=4 d=2.09093 t=3469
+xiao 	小	c=3 d=0.183253 t=3469
+xiao chang 	小厂	c=1 d=0.367879 t=3469
+xiao fu du 	小幅度	c=1 d=0.321422 t=3469
+xiao huang yun 	小黄云	c=1 d=0.843665 t=3469
+xiao hui 	销毁	c=2 d=1.96079 t=3303
+xiao lv 	效率	c=2 d=0.984386 t=3469
+xiao mai 	小麦	c=1 d=0.133989 t=3469
+xiao mi 	小米	c=2 d=0.13466 t=3469
+xiao ming 	小明	c=8 d=2.05676 t=3469
+xiao qu jian 	小区间	c=1 d=0.384812 t=3469
+xiao shi 	消失	c=3 d=0.296504 t=3469
+xiao wang 	小王	c=8 d=3.54418 t=3469
+xiao zhu shou 	小助手	c=2 d=0.109499 t=3469
+xie 	些	c=1 d=0.856415 t=3469
+xie 	写	c=1 d=0.865023 t=3469
+xie zai 	卸载	c=1 d=0.13332 t=3469
+xing 	性	c=1 d=0.694197 t=3469
+xing neng 	性能	c=1 d=0.323033 t=3469
+xing qu 	兴趣	c=2 d=1.34738 t=3469
+xing wei 	行为	c=1 d=1 t=3469
+xing zhi 	性质	c=1 d=0.208045 t=3469
+xiu gai 	修改	c=13 d=3.06895 t=3469
+xu bu xu yao 	需不需要	c=1 d=0.970446 t=3469
+xu yao 	需要	c=22 d=3.19191 t=3469
+xuan ze 	选择	c=4 d=1.60497 t=3469
+xue xi 	学习	c=3 d=1.13821 t=3469
+xun huan 	循环	c=2 d=0.998274 t=3469
+ya li 	压力	c=1 d=0.895834 t=3469
+ya suo bao 	压缩包	c=1 d=0.431711 t=3469
+yan se 	颜色	c=1 d=0.382893 t=3469
+yan zheng 	验证	c=3 d=0.189056 t=3469
+yang shi 	样式	c=5 d=0.317329 t=3469
+yao 	要	c=10 d=1.69535 t=3469
+yao bu yao 	要不要	c=2 d=1.47439 t=3469
+yao me 	要么	c=2 d=0.891967 t=3469
+yao qiu 	要求	c=7 d=1.07978 t=3469
+yao you 	要有	c=2 d=0.926216 t=3469
+ye 	也	c=6 d=1.08759 t=3469
+ye hui 	也会	c=1 d=1 t=3300
+ye jiu 	也就	c=1 d=0.185444 t=3469
+ye mei you 	也没有	c=2 d=0.541057 t=3469
+ye mian 	页面	c=4 d=1.10167 t=3469
+ye shi 	也是	c=3 d=0.43958 t=3469
+ye wu 	业务	c=5 d=1.9097 t=3469
+ye xu yao 	也需要	c=1 d=1 t=3350
+ye yao 	也要	c=1 d=0.519442 t=3469
+yi 	一	c=2 d=0.291429 t=3469
+yi 	以	c=1 d=1 t=3288
+yi ban 	一半	c=1 d=0.486752 t=3469
+yi ban 	一般	c=6 d=1.02264 t=3469
+yi bu fen 	一部分	c=1 d=0.0916297 t=3469
+yi ceng yi ceng 	一层一层	c=1 d=0.191092 t=3469
+yi chang 	异常	c=2 d=0.903524 t=3469
+yi ci 	一次	c=1 d=0.158025 t=3469
+yi da pi 	一大批	c=1 d=0.267136 t=3469
+yi dao qie 	一刀切	c=1 d=1 t=3362
+yi ding 	一定	c=1 d=0.272532 t=3469
+yi dong ka 	移动卡	c=1 d=0.126186 t=3469
+yi dui yi 	一对一	c=1 d=0.13332 t=3469
+yi fen 	一份	c=3 d=0.980697 t=3469
+yi ge 	一个	c=18 d=3.58968 t=3469
+yi hang 	一行	c=4 d=0.495332 t=3469
+yi ji 	以及	c=1 d=0.127454 t=3469
+yi jing 	已经	c=14 d=2.86398 t=3469
+yi qi 	一起	c=2 d=1.69073 t=3376
+yi ran 	依然	c=10 d=2.39409 t=3469
+yi shang 	以上	c=1 d=0.140858 t=3469
+yi si 	意思	c=3 d=0.381331 t=3469
+yi si shi 	意思是	c=1 d=0.366045 t=3469
+yi tai 	一台	c=1 d=0.491644 t=3469
+yi ti jiao 	已提交	c=1 d=0.197899 t=3469
+yi tiao yi tiao 	一跳一跳	c=1 d=0.704688 t=3469
+yi tong 	一同	c=1 d=1 t=3351
+yi wei zhe 	意味着	c=1 d=0.186374 t=3469
+yi xi lie 	一系列	c=1 d=0.554327 t=3469
+yi xia 	一下	c=12 d=4.29637 t=3469
+yi xie 	一些	c=2 d=0.562705 t=3469
+yi yang 	一样	c=4 d=0.980199 t=3469
+yi yuan 	医院	c=1 d=0.97531 t=3469
+yi zhao 	依照	c=2 d=0.283654 t=3469
+yi zhi 	一致	c=2 d=0.594684 t=3469
+yi zhi xing 	一致性	c=4 d=0.639534 t=3469
+yin wei 	因为	c=11 d=1.62227 t=3469
+ying 	英	c=0 d=0.011475 t=3469
+ying bu ying gai 	应不应该	c=1 d=1 t=3334
+ying gai 	应该	c=11 d=1.70508 t=3469
+ying pan 	硬盘	c=1 d=0.261846 t=3469
+ying wen 	英文	c=1 d=0.355226 t=3469
+ying xiang 	影响	c=5 d=1.55458 t=3469
+ying yong 	应用	c=1 d=0.421052 t=3469
+yong 	用	c=9 d=1.42204 t=3469
+yong hu zi liao 	用户资料	c=1 d=0.108609 t=3469
+yong kang shi 	永康市	c=0 d=0.011475 t=3469
+yong lai 	用来	c=1 d=0.299692 t=3469
+yong li 	用例	c=3 d=1.89205 t=3469
+you 	有	c=26 d=3.04789 t=3469
+you dian 	有点	c=1 d=0.715338 t=3469
+you hua 	优化	c=9 d=1.92884 t=3469
+you mei you 	有没有	c=2 d=0.101332 t=3469
+you shen me 	有什么	c=2 d=1.21525 t=3469
+you shi 	优势	c=2 d=1.92741 t=3469
+you wen ti 	有问题	c=1 d=0.68729 t=3469
+you xi you chang 	又细又长	c=1 d=0.169483 t=3469
+you xiu 	优秀	c=2 d=1.01344 t=3469
+you xuan 	优选	c=1 d=0.0692522 t=3469
+you yi ge 	有一个	c=1 d=1 t=3387
+you yu 	由于	c=1 d=1 t=3159
+yu 	与	c=23 d=4.29284 t=3469
+yu fa 	语法	c=1 d=1 t=3365
+yu fa tang 	语法糖	c=2 d=0.253499 t=3469
+yu gu 	预估	c=1 d=0.909373 t=3469
+yu ju 	语句	c=2 d=1.36483 t=3469
+yu xuan 	预选	c=1 d=0.366045 t=3469
+yu yan 	语言	c=2 d=0.252613 t=3469
+yuan 	元	c=10 d=2.66628 t=3469
+yuan ben 	原本	c=1 d=0.609571 t=3469
+yuan di 	原地	c=1 d=0.687289 t=3469
+yuan yin 	原因	c=1 d=0.778801 t=3469
+yuan zi xing 	原子性	c=4 d=1.03437 t=3469
+yue du qi 	阅读器	c=1 d=0.390628 t=3469
+yun chang shang 	云厂商	c=1 d=0.891366 t=3469
+yun suan 	运算	c=1 d=0.179066 t=3469
+yun xing 	运行	c=2 d=1.94649 t=3255
+zai 	再	c=2 d=0.574072 t=3469
+zai 	在	c=32 d=2.9111 t=3469
+zai ci 	再次	c=1 d=0.822835 t=3469
+zai gei wo 	再给我	c=2 d=0.128291 t=3469
+zai qian 	在前	c=1 d=0.226502 t=3469
+zai xian 	在线	c=1 d=0.0713613 t=3469
+zang du 	脏读	c=6 d=2.51089 t=3469
+ze ren 	责任	c=1 d=0.88692 t=3469
+zen me 	怎么	c=7 d=2.20138 t=3469
+zen me ban 	怎么办	c=2 d=0.367261 t=3469
+zen me zuo 	怎么做	c=1 d=0.130028 t=3469
+zeng jia 	增加	c=1 d=0.210136 t=3469
+zhan 	站	c=1 d=0.236928 t=3469
+zhan you 	占有	c=2 d=1.41291 t=3469
+zhang jia 	涨价	c=1 d=0.239309 t=3469
+zhao dao 	找到	c=1 d=0.0528657 t=3469
+zhao yi ge 	找一个	c=2 d=0.790571 t=3469
+zhe 	这	c=3 d=0.560462 t=3469
+zhe dang 	遮挡	c=1 d=0.316637 t=3469
+zhe die 	折叠	c=1 d=0.0987662 t=3469
+zhe gai 	遮盖	c=2 d=0.271415 t=3469
+zhe gai zhu 	遮盖住	c=1 d=0.119433 t=3469
+zhe ge 	这个	c=61 d=9.41541 t=3469
+zhe jiang sheng jin hua shi 	浙江省金华市	c=0 d=0.011475 t=3469
+zhe jiang sheng jin hua shi yong kang shi zhi ying zhen ru tang tou cun zhi ru lu 	浙江省金华市永康市芝英镇儒堂头村芝儒路	c=3 d=0.357197 t=3469
+zhe jiu 	这就	c=1 d=1 t=3415
+zhe li 	这里	c=2 d=0.351488 t=3469
+zhe li mian 	这里面	c=1 d=0.0742736 t=3469
+zhe liang ge 	这两个	c=1 d=0.640824 t=3469
+zhe me 	这么	c=1 d=0.612626 t=3469
+zhe me chang 	这么长	c=1 d=0.103312 t=3469
+zhe shi 	这是	c=1 d=0.285076 t=3469
+zhe yang 	这样	c=13 d=2.89651 t=3469
+zhe yi bu 	这一步	c=1 d=0.453845 t=3469
+zhe yi ge 	这一个	c=1 d=0.0992613 t=3469
+zhen 	真	c=2 d=0.53867 t=3469
+zhen 	镇	c=0 d=0.011475 t=3469
+zhen de 	真的	c=1 d=0.249075 t=3469
+zhen dui 	针对	c=1 d=0.467666 t=3469
+zhen dui yu 	针对于	c=3 d=0.39226 t=3469
+zheng chang 	正常	c=5 d=1.21927 t=3469
+zheng chang bu zheng chang 	正常不正常	c=1 d=0.99005 t=3469
+zheng hang 	整行	c=1 d=0.172045 t=3469
+zheng que 	正确	c=4 d=2.10591 t=3469
+zheng shi ban 	正式版	c=1 d=0.240508 t=3469
+zheng shu 	正数	c=2 d=0.958331 t=3469
+zheng wen 	正文	c=1 d=0.540641 t=3469
+zheng zha 	挣扎	c=1 d=0.19593 t=3469
+zhi 	值	c=8 d=1.71855 t=3469
+zhi 	只	c=1 d=0.481909 t=3469
+zhi 	芝	c=0 d=0.011475 t=3469
+zhi bu guo 	只不过	c=1 d=0.311923 t=3469
+zhi chi 	支持	c=4 d=0.947073 t=3469
+zhi dao 	直到	c=1 d=0.843665 t=3469
+zhi fu bao 	支付宝	c=1 d=0.123071 t=3469
+zhi he 	之和	c=1 d=0.154896 t=3469
+zhi hou 	之后	c=3 d=0.913931 t=3469
+zhi jian 	之间	c=10 d=3.30505 t=3469
+zhi jie 	直接	c=8 d=1.47295 t=3469
+zhi ling 	指令	c=1 d=0.634448 t=3469
+zhi neng 	只能	c=1 d=0.0692522 t=3469
+zhi qian 	之前	c=10 d=1.81991 t=3469
+zhi ru lu 	芝儒路	c=3 d=0.358302 t=3469
+zhi xing 	执行	c=29 d=5.93606 t=3469
+zhi xu yao 	只需要	c=2 d=0.983017 t=3469
+zhi ying zhen 	芝英镇	c=2 d=0.232387 t=3469
+zhi you 	只有	c=2 d=0.182292 t=3469
+zhi yuan zhe 	志愿者	c=1 d=0.271173 t=3469
+zhong 	中	c=13 d=1.55338 t=3469
+zhong da 	中大	c=0 d=0.0377192 t=3469
+zhong da chang 	中大厂	c=2 d=1.03942 t=3469
+zhong dian 	重点	c=1 d=0.167797 t=3469
+zhong duan 	中断	c=9 d=2.78941 t=3469
+zhong duan xian cheng 	中断线程	c=1 d=1 t=3170
+zhong jian 	中间	c=2 d=0.160188 t=3469
+zhong tu 	中途	c=1 d=0.496585 t=3469
+zhong wen 	中文	c=1 d=0.110251 t=3469
+zhong yi 	中译	c=1 d=0.145876 t=3469
+zhong zhi 	终止	c=4 d=3.74518 t=3434
+zhou qi 	周期	c=1 d=0.460704 t=3469
+zhu ce biao 	注册表	c=2 d=1.03684 t=3469
+zhu jian 	主键	c=2 d=1.76102 t=3469
+zhu ni 	祝你	c=1 d=0.726149 t=3469
+zhu shi 	注释	c=1 d=0.0953692 t=3469
+zhu ti 	主题	c=7 d=2.91068 t=3469
+zhu xian cheng 	主线程	c=3 d=2.26613 t=3342
+zhu yao 	主要	c=5 d=1.80603 t=3469
+zhuan 	转	c=1 d=0.117068 t=3469
+zhuan huan 	转换	c=1 d=0.133989 t=3469
+zhuan zhang 	转账	c=1 d=0.181772 t=3469
+zhuang tai 	状态	c=2 d=0.522046 t=3469
+zi 	字	c=2 d=0.340821 t=3469
+zi dong 	自动	c=6 d=0.618593 t=3469
+zi dong hua 	自动化	c=1 d=0.65377 t=3469
+zi fu chuan 	字符串	c=5 d=1.72358 t=3469
+zi fu ji 	字符集	c=1 d=0.182684 t=3469
+zi ji 	自己	c=7 d=2.02857 t=3469
+zi yuan 	资源	c=2 d=1.50885 t=3469
+zi yuan fen pei 	资源分配	c=1 d=0.628135 t=3469
+zong he 	总和	c=3 d=2.29802 t=3469
+zong he 	综合	c=1 d=0.621885 t=3469
+zong zhi 	总之	c=1 d=0.273898 t=3469
+zou bu yuan 	走不远	c=1 d=0.683861 t=3469
+zu se 	阻塞	c=3 d=2.26271 t=3410
+zui 	最	c=1 d=0.860708 t=3469
+zui hou 	最后	c=3 d=1.0054 t=3469
+zui shang fang 	最上方	c=2 d=0.990141 t=3469
+zui shang mian 	最上面	c=2 d=0.125556 t=3469
+zui wai ceng 	最外层	c=1 d=0.144424 t=3469
+zui you bian 	最右边	c=1 d=0.873716 t=3469
+zuo 	做	c=1 d=0.375311 t=3469
+zuo bian 	左边	c=1 d=0.865022 t=3469
+zuo yong 	作用	c=1 d=0.913931 t=3469
+zuo you 	左右	c=2 d=0.98757 t=3469
